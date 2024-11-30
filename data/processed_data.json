@@ -1,0 +1,1574 @@
+[
+  {
+    "name": "Greenpoint",
+    "count": 15.0,
+    "per_capita": 3.8481272447408927,
+    "per_km2": 0.4246740542689581
+  },
+  {
+    "name": "Williamsburg",
+    "count": 11.0,
+    "per_capita": 1.7069083235056794,
+    "per_km2": 0.3812254871695723
+  },
+  {
+    "name": "South Williamsburg",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East Williamsburg",
+    "count": 8.0,
+    "per_capita": 1.5094909241858183,
+    "per_km2": 0.1530625584682586
+  },
+  {
+    "name": "Brooklyn Heights",
+    "count": 3.0,
+    "per_capita": 1.1956001912960306,
+    "per_km2": 0.300531290692676
+  },
+  {
+    "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+    "count": 1.0,
+    "per_capita": 0.2440929505955868,
+    "per_km2": 0.042134248329541844
+  },
+  {
+    "name": "Fort Greene",
+    "count": 7.0,
+    "per_capita": 2.1252049304754386,
+    "per_km2": 0.39921989536846075
+  },
+  {
+    "name": "Clinton Hill",
+    "count": 6.0,
+    "per_capita": 2.094460152895591,
+    "per_km2": 0.41190162260844454
+  },
+  {
+    "name": "Brooklyn Navy Yard",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bedford-Stuyvesant (West)",
+    "count": 17.0,
+    "per_capita": 1.9060646492280438,
+    "per_km2": 0.46062098585986905
+  },
+  {
+    "name": "Bedford-Stuyvesant (East)",
+    "count": 15.0,
+    "per_capita": 1.7719395650479015,
+    "per_km2": 0.3632867211902903
+  },
+  {
+    "name": "Bushwick (West)",
+    "count": 21.0,
+    "per_capita": 3.5780004089143325,
+    "per_km2": 0.9076961442879751
+  },
+  {
+    "name": "Bushwick (East)",
+    "count": 11.0,
+    "per_capita": 1.7727924704668891,
+    "per_km2": 0.3938116021652958
+  },
+  {
+    "name": "The Evergreens Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Cypress Hills",
+    "count": 1.0,
+    "per_capita": 0.23118180136859626,
+    "per_km2": 0.04101910011976764
+  },
+  {
+    "name": "East New York (North)",
+    "count": 1.0,
+    "per_capita": 0.233546639263861,
+    "per_km2": 0.035833321874783594
+  },
+  {
+    "name": "East New York-New Lots",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Spring Creek-Starrett City",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East New York-City Line",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Highland Park-Cypress Hills Cemeteries (South)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Carroll Gardens-Cobble Hill-Gowanus-Red Hook",
+    "count": 23.0,
+    "per_capita": 3.887367744988676,
+    "per_km2": 0.3782162045480953
+  },
+  {
+    "name": "Park Slope",
+    "count": 18.0,
+    "per_capita": 3.135615364515286,
+    "per_km2": 0.696883022567057
+  },
+  {
+    "name": "Windsor Terrace-South Slope",
+    "count": 4.0,
+    "per_capita": 1.6933367200067733,
+    "per_km2": 0.26123224374724896
+  },
+  {
+    "name": "Sunset Park (West)",
+    "count": 8.0,
+    "per_capita": 1.4686174802195584,
+    "per_km2": 0.15879655639320198
+  },
+  {
+    "name": "Sunset Park (Central)",
+    "count": 6.0,
+    "per_capita": 1.079020249613351,
+    "per_km2": 0.31992690972002136
+  },
+  {
+    "name": "Green-Wood Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Prospect Heights",
+    "count": 5.0,
+    "per_capita": 2.12630236019562,
+    "per_km2": 0.4848054629554898
+  },
+  {
+    "name": "Crown Heights (North)",
+    "count": 6.0,
+    "per_capita": 0.7036059806508356,
+    "per_km2": 0.16941333823881227
+  },
+  {
+    "name": "Lincoln Terrace Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Crown Heights (South)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Prospect Lefferts Gardens-Wingate",
+    "count": 3.0,
+    "per_capita": 0.6059014804192838,
+    "per_km2": 0.1247963572423737
+  },
+  {
+    "name": "Bay Ridge",
+    "count": 8.0,
+    "per_capita": 0.9218820221482156,
+    "per_km2": 0.12979241476926168
+  },
+  {
+    "name": "Dyker Heights",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Fort Hamilton",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Dyker Beach Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bensonhurst",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bath Beach",
+    "count": 1.0,
+    "per_capita": 0.3023888720895071,
+    "per_km2": 0.04864650704484105
+  },
+  {
+    "name": "Gravesend (West)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Sunset Park (East)-Borough Park (West)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Borough Park",
+    "count": 1.0,
+    "per_capita": 0.10649060220435547,
+    "per_km2": 0.024702772432065284
+  },
+  {
+    "name": "Kensington",
+    "count": 5.0,
+    "per_capita": 1.1973753532257292,
+    "per_km2": 0.28618479694182186
+  },
+  {
+    "name": "Mapleton-Midwood (West)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Gravesend (South)",
+    "count": 2.0,
+    "per_capita": 0.6586313640255549,
+    "per_km2": 0.07741206452546942
+  },
+  {
+    "name": "Coney Island-Sea Gate",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Brighton Beach",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Calvert Vaux Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Flatbush",
+    "count": 1.0,
+    "per_capita": 0.15036915627866412,
+    "per_km2": 0.041624745505971415
+  },
+  {
+    "name": "Flatbush (West)-Ditmas Park-Parkville",
+    "count": 2.0,
+    "per_capita": 0.46494327692021575,
+    "per_km2": 0.08731847084234134
+  },
+  {
+    "name": "Midwood",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Gravesend (East)-Homecrest",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Madison",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Sheepshead Bay-Manhattan Beach-Gerritsen Beach",
+    "count": 1.0,
+    "per_capita": 0.14475131723698687,
+    "per_km2": 0.015780207488161124
+  },
+  {
+    "name": "Ocean Hill",
+    "count": 1.0,
+    "per_capita": 0.26349072512647553,
+    "per_km2": 0.049775764344128
+  },
+  {
+    "name": "Brownsville",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East Flatbush-Erasmus",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East Flatbush-Farragut",
+    "count": 2.0,
+    "per_capita": 0.5828015269400005,
+    "per_km2": 0.08291221227877747
+  },
+  {
+    "name": "East Flatbush-Rugby",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East Flatbush-Remsen Village",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Holy Cross Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Flatlands",
+    "count": 1.0,
+    "per_capita": 0.14906017559288684,
+    "per_km2": 0.0184036048752598
+  },
+  {
+    "name": "Marine Park-Mill Basin-Bergen Beach",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Canarsie",
+    "count": 2.0,
+    "per_capita": 0.22239025041142196,
+    "per_km2": 0.028353660360623017
+  },
+  {
+    "name": "Marine Park-Plumb Island",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "McGuire Fields",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Canarsie Park & Pier",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Prospect Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Barren Island-Floyd Bennett Field",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jamaica Bay (West)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Shirley Chisholm State Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Mott Haven-Port Morris",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Melrose",
+    "count": 2.0,
+    "per_capita": 0.4689221823638367,
+    "per_km2": 0.11579593088535119
+  },
+  {
+    "name": "Hunts Point",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Longwood",
+    "count": 2.0,
+    "per_capita": 0.4964134130904217,
+    "per_km2": 0.12999549533954746
+  },
+  {
+    "name": "North & South Brother Islands",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Morrisania",
+    "count": 3.0,
+    "per_capita": 0.7977238280107427,
+    "per_km2": 0.21721542646512013
+  },
+  {
+    "name": "Claremont Village-Claremont (East)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Crotona Park East",
+    "count": 1.0,
+    "per_capita": 0.33158697526361164,
+    "per_km2": 0.06258451965294705
+  },
+  {
+    "name": "Crotona Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Concourse-Concourse Village",
+    "count": 4.0,
+    "per_capita": 0.5764768616599651,
+    "per_km2": 0.15092745015525205
+  },
+  {
+    "name": "Highbridge",
+    "count": 1.0,
+    "per_capita": 0.3081094404732561,
+    "per_km2": 0.0766254140613917
+  },
+  {
+    "name": "Mount Eden-Claremont (West)",
+    "count": 3.0,
+    "per_capita": 0.6042174377152525,
+    "per_km2": 0.2204704441867742
+  },
+  {
+    "name": "Yankee Stadium-Macombs Dam Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Claremont Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "University Heights (South)-Morris Heights",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Mount Hope",
+    "count": 3.0,
+    "per_capita": 0.6110104075439419,
+    "per_km2": 0.2365123422698344
+  },
+  {
+    "name": "Fordham Heights",
+    "count": 1.0,
+    "per_capita": 0.3115361849278794,
+    "per_km2": 0.1355189860441014
+  },
+  {
+    "name": "West Farms",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Tremont",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Belmont",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "University Heights (North)-Fordham",
+    "count": 1.0,
+    "per_capita": 0.2148781640809661,
+    "per_km2": 0.05460543586274944
+  },
+  {
+    "name": "Bedford Park",
+    "count": 4.0,
+    "per_capita": 0.7204481187298499,
+    "per_km2": 0.16290885719291195
+  },
+  {
+    "name": "Norwood",
+    "count": 3.0,
+    "per_capita": 0.6901946348870381,
+    "per_km2": 0.19082593003255055
+  },
+  {
+    "name": "Kingsbridge Heights-Van Cortlandt Village",
+    "count": 2.0,
+    "per_capita": 0.5590183637532493,
+    "per_km2": 0.18232474178380717
+  },
+  {
+    "name": "Kingsbridge-Marble Hill",
+    "count": 1.0,
+    "per_capita": 0.4384618757399044,
+    "per_km2": 0.08121844630929342
+  },
+  {
+    "name": "Riverdale-Spuyten Duyvil",
+    "count": 4.0,
+    "per_capita": 0.834602624825255,
+    "per_km2": 0.06350895523431427
+  },
+  {
+    "name": "Soundview-Bruckner-Bronx River",
+    "count": 1.0,
+    "per_capita": 0.13451346479782625,
+    "per_km2": 0.03104817610642964
+  },
+  {
+    "name": "Soundview-Clason Point",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Castle Hill-Unionport",
+    "count": 4.0,
+    "per_capita": 0.9657170449058425,
+    "per_km2": 0.12158909421784005
+  },
+  {
+    "name": "Parkchester",
+    "count": 2.0,
+    "per_capita": 0.595202666507946,
+    "per_km2": 0.21776208707641181
+  },
+  {
+    "name": "Soundview Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Westchester Square",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Throgs Neck-Schuylerville",
+    "count": 5.0,
+    "per_capita": 1.039155374511597,
+    "per_km2": 0.07521432198208765
+  },
+  {
+    "name": "Pelham Bay-Country Club-City Island",
+    "count": 1.0,
+    "per_capita": 0.33942027017853504,
+    "per_km2": 0.02832077509187223
+  },
+  {
+    "name": "Co-op City",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Hart Island",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Ferry Point Park-St. Raymond Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Pelham Parkway-Van Nest",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Morris Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Pelham Gardens",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Allerton",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Hutchinson Metro Center",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Williamsbridge-Olinville",
+    "count": 1.0,
+    "per_capita": 0.16300981319075408,
+    "per_km2": 0.0275920873852394
+  },
+  {
+    "name": "Eastchester-Edenwald-Baychester",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Wakefield-Woodlawn",
+    "count": 2.0,
+    "per_capita": 0.41966552657531947,
+    "per_km2": 0.050445418041487396
+  },
+  {
+    "name": "Woodlawn Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Van Cortlandt Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bronx Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Pelham Bay Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Financial District-Battery Park City",
+    "count": 1.0,
+    "per_capita": 0.18870772946859904,
+    "per_km2": 0.05196152046188291
+  },
+  {
+    "name": "Tribeca-Civic Center",
+    "count": 2.0,
+    "per_capita": 0.7877116975187082,
+    "per_km2": 0.1473059866522111
+  },
+  {
+    "name": "The Battery-Governors Island-Ellis Island-Liberty Island",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "SoHo-Little Italy-Hudson Square",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Greenwich Village",
+    "count": 2.0,
+    "per_capita": 0.585702990013764,
+    "per_km2": 0.1885802991463478
+  },
+  {
+    "name": "West Village",
+    "count": 4.0,
+    "per_capita": 1.1424980720345035,
+    "per_km2": 0.2798636452682612
+  },
+  {
+    "name": "Chinatown-Two Bridges",
+    "count": 3.0,
+    "per_capita": 0.7049534730707774,
+    "per_km2": 0.25990615463437877
+  },
+  {
+    "name": "Lower East Side",
+    "count": 3.0,
+    "per_capita": 0.6103888176768602,
+    "per_km2": 0.18211407954397518
+  },
+  {
+    "name": "East Village",
+    "count": 4.0,
+    "per_capita": 0.5599417660563302,
+    "per_km2": 0.21076176088070175
+  },
+  {
+    "name": "Chelsea-Hudson Yards",
+    "count": 17.0,
+    "per_capita": 2.4375905134712723,
+    "per_km2": 0.5729354981698809
+  },
+  {
+    "name": "Hell's Kitchen",
+    "count": 4.0,
+    "per_capita": 0.6719978496068812,
+    "per_km2": 0.21760043946320154
+  },
+  {
+    "name": "Midtown South-Flatiron-Union Square",
+    "count": 2.0,
+    "per_capita": 0.6021557174685374,
+    "per_km2": 0.13442572025330202
+  },
+  {
+    "name": "Midtown-Times Square",
+    "count": 1.0,
+    "per_capita": 0.39100684261974583,
+    "per_km2": 0.04072903480195454
+  },
+  {
+    "name": "Stuyvesant Town-Peter Cooper Village",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Gramercy",
+    "count": 3.0,
+    "per_capita": 1.0479251082855945,
+    "per_km2": 0.398569590938703
+  },
+  {
+    "name": "Murray Hill-Kips Bay",
+    "count": 1.0,
+    "per_capita": 0.1574307304785894,
+    "per_km2": 0.06340690629988398
+  },
+  {
+    "name": "East Midtown-Turtle Bay",
+    "count": 1.0,
+    "per_capita": 0.2185075931388616,
+    "per_km2": 0.07611453201177582
+  },
+  {
+    "name": "United Nations",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Upper West Side-Lincoln Square",
+    "count": 7.0,
+    "per_capita": 0.9901410243716141,
+    "per_km2": 0.44310952517152447
+  },
+  {
+    "name": "Upper West Side (Central)",
+    "count": 8.0,
+    "per_capita": 0.7861094460876316,
+    "per_km2": 0.3148284060128532
+  },
+  {
+    "name": "Upper West Side-Manhattan Valley",
+    "count": 5.0,
+    "per_capita": 0.9661649050259898,
+    "per_km2": 0.37877497085998774
+  },
+  {
+    "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+    "count": 9.0,
+    "per_capita": 1.052299273913501,
+    "per_km2": 0.4185860300244824
+  },
+  {
+    "name": "Upper East Side-Carnegie Hill",
+    "count": 2.0,
+    "per_capita": 0.3204614645088928,
+    "per_km2": 0.09967424544289027
+  },
+  {
+    "name": "Upper East Side-Yorkville",
+    "count": 5.0,
+    "per_capita": 0.594912309925517,
+    "per_km2": 0.36643368794685177
+  },
+  {
+    "name": "Morningside Heights",
+    "count": 3.0,
+    "per_capita": 0.7719027402547279,
+    "per_km2": 0.1884094698670933
+  },
+  {
+    "name": "Manhattanville-West Harlem",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Hamilton Heights-Sugar Hill",
+    "count": 10.0,
+    "per_capita": 2.0238818053025702,
+    "per_km2": 0.6256106362703249
+  },
+  {
+    "name": "Harlem (South)",
+    "count": 6.0,
+    "per_capita": 1.2735338441619086,
+    "per_km2": 0.41547714297754795
+  },
+  {
+    "name": "Harlem (North)",
+    "count": 6.0,
+    "per_capita": 0.720054724159036,
+    "per_km2": 0.2522001726686372
+  },
+  {
+    "name": "East Harlem (South)",
+    "count": 2.0,
+    "per_capita": 0.3343698799612131,
+    "per_km2": 0.12009170369517705
+  },
+  {
+    "name": "East Harlem (North)",
+    "count": 7.0,
+    "per_capita": 1.0826695537854767,
+    "per_km2": 0.2681529506846541
+  },
+  {
+    "name": "Randall's Island",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Washington Heights (South)",
+    "count": 4.0,
+    "per_capita": 0.5552702083651457,
+    "per_km2": 0.19023273293997803
+  },
+  {
+    "name": "Washington Heights (North)",
+    "count": 7.0,
+    "per_capita": 0.974360401993263,
+    "per_km2": 0.28255987329656834
+  },
+  {
+    "name": "Inwood",
+    "count": 4.0,
+    "per_capita": 1.1019587316455,
+    "per_km2": 0.27705405480162565
+  },
+  {
+    "name": "Highbridge Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Inwood Hill Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Central Park",
+    "count": 2.0,
+    "per_capita": 155.03875968992247,
+    "per_km2": 0.05220244897643253
+  },
+  {
+    "name": "Astoria (North)-Ditmars-Steinway",
+    "count": 11.0,
+    "per_capita": 2.190144350423096,
+    "per_km2": 0.18867348121366923
+  },
+  {
+    "name": "Old Astoria-Hallets Point",
+    "count": 8.0,
+    "per_capita": 4.226765995667565,
+    "per_km2": 0.7212180923005165
+  },
+  {
+    "name": "Astoria (Central)",
+    "count": 20.0,
+    "per_capita": 3.8299502106472616,
+    "per_km2": 0.9485496226803721
+  },
+  {
+    "name": "Astoria (East)-Woodside (North)",
+    "count": 14.0,
+    "per_capita": 3.620096708297779,
+    "per_km2": 0.5375668393963212
+  },
+  {
+    "name": "Queensbridge-Ravenswood-Dutch Kills",
+    "count": 5.0,
+    "per_capita": 1.5172664926867756,
+    "per_km2": 0.18036491260281814
+  },
+  {
+    "name": "Rikers Island",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Sunnyside Yards (North)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "St. Michael's Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Astoria Park",
+    "count": 1.0,
+    "per_capita": 1.0,
+    "per_km2": 0.3738393014983451
+  },
+  {
+    "name": "Long Island City-Hunters Point",
+    "count": 6.0,
+    "per_capita": 1.862428606903402,
+    "per_km2": 0.2174267352199361
+  },
+  {
+    "name": "Sunnyside",
+    "count": 8.0,
+    "per_capita": 1.5302804238876775,
+    "per_km2": 0.16770884862777855
+  },
+  {
+    "name": "Woodside",
+    "count": 3.0,
+    "per_capita": 0.5640370008272543,
+    "per_km2": 0.09104850496315273
+  },
+  {
+    "name": "Sunnyside Yards (South)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Calvary & Mount Zion Cemeteries",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jackson Heights",
+    "count": 10.0,
+    "per_capita": 0.9818553138009583,
+    "per_km2": 0.2543548832795107
+  },
+  {
+    "name": "East Elmhurst",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "North Corona",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Elmhurst",
+    "count": 4.0,
+    "per_capita": 0.3708373507379663,
+    "per_km2": 0.09500717357237416
+  },
+  {
+    "name": "Corona",
+    "count": 1.0,
+    "per_capita": 0.1354609736934789,
+    "per_km2": 0.04162201253300976
+  },
+  {
+    "name": "Maspeth",
+    "count": 2.0,
+    "per_capita": 0.46235291397924033,
+    "per_km2": 0.03429507705000825
+  },
+  {
+    "name": "Ridgewood",
+    "count": 14.0,
+    "per_capita": 2.1083702298123552,
+    "per_km2": 0.3290155258673248
+  },
+  {
+    "name": "Glendale",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Middle Village",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Mount Olivet & All Faiths Cemeteries",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Middle Village Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "St. John Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Highland Park-Cypress Hills Cemeteries (North)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Rego Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Forest Hills",
+    "count": 4.0,
+    "per_capita": 0.44961501714157254,
+    "per_km2": 0.06902072913246571
+  },
+  {
+    "name": "College Point",
+    "count": 1.0,
+    "per_capita": 0.29739776951672864,
+    "per_km2": 0.014990330415007474
+  },
+  {
+    "name": "Whitestone-Beechhurst",
+    "count": 2.0,
+    "per_capita": 0.7040270346381301,
+    "per_km2": 0.03799554038703854
+  },
+  {
+    "name": "Bay Terrace-Clearview",
+    "count": 1.0,
+    "per_capita": 0.4294241422252759,
+    "per_km2": 0.025435248197147823
+  },
+  {
+    "name": "Murray Hill-Broadway Flushing",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "East Flushing",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Queensboro Hill",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Flushing-Willets Point",
+    "count": 3.0,
+    "per_capita": 0.42931352766925684,
+    "per_km2": 0.07783602699204385
+  },
+  {
+    "name": "Fort Totten",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Kissena Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Kew Gardens Hills",
+    "count": 1.0,
+    "per_capita": 0.27770835069010524,
+    "per_km2": 0.02915082342423276
+  },
+  {
+    "name": "Pomonok-Electchester-Hillcrest",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Fresh Meadows-Utopia",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jamaica Estates-Holliswood",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jamaica Hills-Briarwood",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Mount Hebron & Cedar Grove Cemeteries",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Cunningham Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Kew Gardens",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Richmond Hill",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "South Richmond Hill",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Ozone Park (North)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Woodhaven",
+    "count": 1.0,
+    "per_capita": 0.23839038809955182,
+    "per_km2": 0.04214519540669002
+  },
+  {
+    "name": "South Ozone Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Ozone Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Howard Beach-Lindenwood",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Spring Creek Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Auburndale",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bayside",
+    "count": 1.0,
+    "per_capita": 0.2809935933460717,
+    "per_km2": 0.01420251576028834
+  },
+  {
+    "name": "Douglaston-Little Neck",
+    "count": 1.0,
+    "per_capita": 0.39585147652600744,
+    "per_km2": 0.014673630348156757
+  },
+  {
+    "name": "Oakland Gardens-Hollis Hills",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Alley Pond Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jamaica",
+    "count": 1.0,
+    "per_capita": 0.16395324053579918,
+    "per_km2": 0.021353621701406606
+  },
+  {
+    "name": "South Jamaica",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Baisley Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Springfield Gardens (North)-Rochdale Village",
+    "count": 2.0,
+    "per_capita": 0.6082170118298209,
+    "per_km2": 0.05803108482555963
+  },
+  {
+    "name": "St. Albans",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Hollis",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Glen Oaks-Floral Park-New Hyde Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Bellerose",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Queens Village",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Cambria Heights",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Laurelton",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Springfield Gardens (South)-Brookville",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Rosedale",
+    "count": 1.0,
+    "per_capita": 0.3689900741670049,
+    "per_km2": 0.021170551823856732
+  },
+  {
+    "name": "Montefiore Cemetery",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Far Rockaway-Bayswater",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Rockaway Beach-Arverne-Edgemere",
+    "count": 3.0,
+    "per_capita": 0.7252157516861266,
+    "per_km2": 0.05940345517137489
+  },
+  {
+    "name": "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+    "count": 3.0,
+    "per_capita": 1.2430595839893925,
+    "per_km2": 0.043333385034168725
+  },
+  {
+    "name": "Rockaway Community Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "LaGuardia Airport",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Flushing Meadows-Corona Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Forest Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "John F. Kennedy International Airport",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jamaica Bay (East)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Jacob Riis Park-Fort Tilden-Breezy Point Tip",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "St. George-New Brighton",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Tompkinsville-Stapleton-Clifton-Fox Hills",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Rosebank-Shore Acres-Park Hill",
+    "count": 1.0,
+    "per_capita": 0.3920031360250882,
+    "per_km2": 0.02836768957526022
+  },
+  {
+    "name": "West New Brighton-Silver Lake-Grymes Hill",
+    "count": 1.0,
+    "per_capita": 0.27019724398811135,
+    "per_km2": 0.011715085689097423
+  },
+  {
+    "name": "Westerleigh-Castleton Corners",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Port Richmond",
+    "count": 1.0,
+    "per_capita": 0.4423017382458313,
+    "per_km2": 0.027596163805152434
+  },
+  {
+    "name": "Mariner's Harbor-Arlington-Graniteville",
+    "count": 1.0,
+    "per_capita": 0.2985787650782276,
+    "per_km2": 0.011186735175875647
+  },
+  {
+    "name": "Snug Harbor",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Grasmere-Arrochar-South Beach-Dongan Hills",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "New Dorp-Midland Beach",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "New Springville-Willowbrook-Bulls Head-Travis",
+    "count": 1.0,
+    "per_capita": 0.23325791327470785,
+    "per_km2": 0.004774614798275153
+  },
+  {
+    "name": "Freshkills Park (North)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Oakwood-Richmondtown",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Great Kills-Eltingville",
+    "count": 1.0,
+    "per_capita": 0.1828186986965027,
+    "per_km2": 0.008565546630429523
+  },
+  {
+    "name": "Arden Heights-Rossville",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Annadale-Huguenot-Prince's Bay-Woodrow",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Tottenville-Charleston",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Freshkills Park (South)",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Fort Wadsworth",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Hoffman & Swinburne Islands",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Miller Field",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  },
+  {
+    "name": "Great Kills Park",
+    "count": null,
+    "per_capita": null,
+    "per_km2": null
+  }
+]

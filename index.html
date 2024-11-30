@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adopt Your Spot NYC - Participation by Neighborhood</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js'></script>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #vis {
+            width: 100%;
+            height: 90vh;
+            cursor: crosshair;
+        }
+
+        #container {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .tooltip {
+            position: absolute;
+            padding: 5px;
+            border: 1px solid black;
+            background: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Adopt Your Spot NYC - Participation By Neighborhood</h1>
+    <p>Select a Category: <select id="category" onchange="handleChange(this)"></select></p>
+    <p><a href="https://github.com/yangdanny97/adopt-your-spot">View Code/Data Here</a></p>
+    <p><a href="https://www.sanitationfoundation.org/adopt-your-spot-nyc">Learn more about Adopt Your Spot NYC</a></p>
+    <hr />
+    <div id="container">
+        <svg id="vis"></svg>
+    </div>
+    <script>
+        const container = d3.select("#container");
+        const bbox = container.node().getBoundingClientRect();
+        const width = bbox.width;
+        const height = bbox.height;
+        const svg = d3.select("#vis");
+        svg.attr("width", width).attr("height", height);
+
+        const tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
+        const CATEGORIES = {
+            SPOTS: "SPOTS",
+            SPOTS_PER_CAPITA: "SPOTS_PER_CAPITA",
+            SPOTS_PER_KM2: "SPOTS_PER_KM2",
+        };
+        const LABELS = {
+            SPOTS: "Participants",
+            SPOTS_PER_CAPITA: "Participants per 10k Population",
+            SPOTS_PER_KM2: "Participants per km\u00B2",
+        };
+        const KEYS = {
+            SPOTS: "count",
+            SPOTS_PER_CAPITA: "per_capita",
+            SPOTS_PER_KM2: "per_km2",
+        };
+        const FORMAT = {
+            SPOTS: d3.format(".0f"),
+            SPOTS_PER_CAPITA: d3.format(".1f"),
+            SPOTS_PER_KM2: d3.format(".2f"),
+        };
+        const EXTENT = {
+            SPOTS_PER_CAPITA: [0, 4],
+            SPOTS_PER_KM2: [0, 1],
+        }
+        const SCALES = {}
+        var category = CATEGORIES.SPOTS;
+        var focused = null;
+        var handleChange;
+
+        const dropdown = document.getElementById("category");
+        Object.values(CATEGORIES).forEach(c => {
+            const option = document.createElement("option");
+            option.text = LABELS[c];
+            option.value = c;
+            dropdown.add(option);
+        });
+        dropdown.value = category;
+
+        function draw(neighborhoods, data, mapping) {
+            const projection = d3.geoMercator();
+            const path = d3.geoPath().projection(projection);
+            const padding = 20;
+            projection.fitExtent([[padding, padding], [width - padding, height - padding]], neighborhoods);
+
+            Object.values(CATEGORIES).forEach(c => {
+                let k = KEYS[c];
+                SCALES[k] = d3.scaleSequential()
+                    .domain(EXTENT[c] ?? d3.extent(data.filter(d => d[k] != null), d => d[k]))
+                    .interpolator(x => d3.interpolateGreens(0.1 + x * 0.9));
+            });
+
+            const layer1 = svg.append("g");
+
+            function highlightNeighborhood(d) {
+                if (focused == null) {
+                    return false;
+                }
+                if (d.properties.ntaname === focused) {
+                    return true;
+                }
+                return false;
+            }
+
+            const legend = svg.append('g').attr('transform', `translate(10,25)`);
+
+            function update() {
+                legend.call(d3.legendColor()
+                    .scale(SCALES[KEYS[category]])
+                    .orient('horizontal')
+                    .shapeWidth(50)
+                    .labelFormat(FORMAT[category])
+                    .title(LABELS[category]));
+                // neighborhoods
+                layer1.selectAll("path")
+                    .data(neighborhoods.features, d => d.properties.ntaname)
+                    .join(enter => enter.append("path")
+                        .attr("d", path)
+                        .attr("fill", d => {
+                            const key = KEYS[category];
+                            const data = mapping[d.properties.ntaname];
+                            if (data[key] == null) {
+                                return "silver";
+                            }
+                            return SCALES[key](data[key]);
+                        })
+                        .attr("stroke", "white")
+                        .attr("stroke-width", d => highlightNeighborhood(d) ? 1.5 : 0)
+                        .on("mouseover", (_, d) => {
+                            focused = d.properties.ntaname;
+                            const tooltip_data = Object.values(CATEGORIES).map(c => {
+                                const key = KEYS[c];
+                                const label = LABELS[c];
+                                const fmt = FORMAT[c];
+                                const value = (mapping[focused][key] != null) ? fmt(mapping[focused][key]) : 0;
+                                return `${label}: ${value}`;
+                            }).join("<br/>");
+                            tooltip.html(`${d.properties.ntaname}<br/>${tooltip_data}`)
+                                .style("left", (event.pageX + 25) + "px")
+                                .style("top", (event.pageY - 28) + "px")
+                                .style("opacity", 1);
+                            update();
+                        })
+                        .on("mouseout", (_, d) => {
+                            focused = null;
+                            tooltip.html("")
+                                .style("left", "0px")
+                                .style("top", "0px")
+                                .style("opacity", 0);
+                            update();
+                        }),
+                        update => update.attr("stroke-width", d => highlightNeighborhood(d) ? 1.5 : 0)
+                            .attr("fill", d => {
+                                const key = KEYS[category];
+                                const data = mapping[d.properties.ntaname];
+                                if (data[key] == null) {
+                                    return "silver";
+                                }
+                                return SCALES[key](data[key]);
+                            }));
+            }
+            update();
+            handleChange = select => {
+                category = select.value;
+                update();
+            }
+        }
+
+        async function onload() {
+            var data = await d3.json("./data/processed_data.json");
+            const mapping = {};
+            data.forEach(d => {
+                mapping[d.name] = d;
+            });
+            const neighborhoods = await d3.json("./data/2020_NTA.geojson");
+            draw(neighborhoods, data, mapping);
+        }
+
+        onload();
+    </script>
+</body>
+
+</html>
