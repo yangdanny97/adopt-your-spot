@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adopt Your Spot NYC - Participation by Neighborhood</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #vis {
+            width: 100%;
+            height: 90vh;
+            cursor: crosshair;
+        }
+
+        #container {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .tooltip {
+            position: absolute;
+            padding: 5px;
+            border: 1px solid black;
+            background: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Adopt Your Spot NYC - Locations</h1>
+    <p>Select a Category: <select id="category" onchange="handleChange(this)"></select></p>
+    <p><a href="https://github.com/yangdanny97/adopt-your-spot">View Code/Data Here</a></p>
+    <p><a href="https://www.sanitationfoundation.org/adopt-your-spot-nyc">Learn more about Adopt Your Spot NYC</a></p>
+    <hr />
+    <div id="container">
+        <svg id="vis"></svg>
+    </div>
+    <script>
+        const container = d3.select("#container");
+        const bbox = container.node().getBoundingClientRect();
+        const width = bbox.width;
+        const height = bbox.height;
+        const svg = d3.select("#vis");
+        svg.attr("width", width).attr("height", height);
+
+        const emojis = {
+            "tree": "🌳",
+            "station": "🚏",
+            "sidewalk": "🚶",
+            "house": "🏠",
+            "apartment": "🏢",
+            "block": "🏙",
+            "park": "🛝",
+            "intersection": "🚦",
+            "underpass/overpass": "🌉",
+            "garden": "🌺",
+            "fountain": "⛲️",
+            "vacant": "🚧",
+            "construction": "🏗",
+            "drain": "🌧",
+            "shop": "🏬",
+            "beach": "🏖",
+            "school": "🏫",
+            "bench": "🪑"
+        };
+
+        const labels = {
+            "tree": "trees",
+            "station": "train/bus station",
+            "sidewalk": "sidewalk",
+            "house": "house",
+            "apartment": "apartment",
+            "block": "block",
+            "park": "park/playground",
+            "intersection": "intersection/corner",
+            "underpass/overpass": "bridge/tunnel",
+            "garden": "garden/planters",
+            "fountain": "fountain",
+            "vacant": "vacant lot",
+            "construction": "construction",
+            "drain": "catch basin",
+            "shop": "restaurant/store",
+            "beach": "beach",
+            "school": "school",
+            "bench": "bench"
+        };
+
+        const order = [
+            "construction",
+            "fountain",
+            "bench",
+            "vacant",
+            "shop",
+            "beach",
+            "underpass/overpass",
+            "school",
+            "garden",
+            "station",
+            "house",
+            "drain",
+            "sidewalk",
+            "apartment",
+            "park",
+            "intersection",
+            "block",
+            "tree"
+        ];
+
+        function draw(neighborhoods, data, mapping) {
+            const projection = d3.geoMercator();
+            const path = d3.geoPath().projection(projection);
+            const padding = 20;
+            projection.fitExtent([[padding, padding], [width - padding, height - padding]], neighborhoods);
+
+            const layer1 = svg.append("g");
+
+            function selectEmoji(d) {
+                for (const key of order) {
+                    if (d.name_keywords[key]) {
+                        return emojis[key];
+                    }
+                }
+                return "💚";
+            }
+
+            function project(d) {
+                const lng = d.location.geometry.location.lng;
+                const lat = d.location.geometry.location.lat;
+                return projection([lng, lat])
+            }
+
+            function update() {
+                // neighborhoods
+                layer1.selectAll("path")
+                    .data(neighborhoods.features, d => d.properties.ntaname)
+                    .join(enter => enter.append("path")
+                        .attr("d", path)
+                        .attr("fill", "none")
+                        .attr("stroke", "black")
+                        .attr("stroke-width", 1));
+
+                layer1.selectAll("text")
+                    .data(data)
+                    .join(enter => enter.append("text")
+                        .attr("x", d => project(d)[0])
+                        .attr("y", d => project(d)[1] - 5)
+                        .attr('dominant-baseline', 'middle')
+                        .attr("text-anchor", "middle")
+                        .attr("font-size", 10)
+                        .attr("fill", "#d6b496")
+                        .text(d => selectEmoji(d)))
+            }
+            update();
+        }
+
+        async function onload() {
+            var data = await d3.json("./data/adopt_your_spot_geocoded.json");
+            const mapping = {};
+            data.forEach(d => {
+                mapping[d.name] = d;
+            });
+            const neighborhoods = await d3.json("./data/2020_NTA.geojson");
+            draw(neighborhoods, data, mapping);
+        }
+
+        onload();
+    </script>
+</body>
+
+</html>
