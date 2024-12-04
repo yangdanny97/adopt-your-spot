@@ -1,4 +1,8 @@
 import json
+
+# Searches names and reasons for keywords, with a weak attempt at singularizing some nouns.
+# Augments JSON data with keyword flags.
+
 data = None
 with open("data/adopt_your_spot_geocoded.json", "r") as f:
     data = json.load(f)
@@ -29,6 +33,7 @@ def search_text(text, search):
         elif " " in phrase and phrase in text:
             return True
     return False
+
 
 name_counts = {}
 reason_counts = {}

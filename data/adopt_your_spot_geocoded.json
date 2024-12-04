@@ -168,7 +168,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8316
     },
     {
         "name": "Mosholu Playground Side walk. \n\nEast Mosholu parkway between Bainbridge Ave. and Briggs Ave.",
@@ -326,7 +327,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0165
     },
     {
         "name": "Across from 495 Mosely ave",
@@ -497,7 +499,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5719
     },
     {
         "name": "It's a treet pit directly in front of 137 Putnam Ave.",
@@ -662,7 +665,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9164
     },
     {
         "name": "The area of street on forest Hill rd between Yukon Ave and Platinum Ave.",
@@ -820,7 +824,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6682
     },
     {
         "name": "it is the park waterfront (over the rail)",
@@ -985,7 +990,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "Northeast corner of 15th St & 8th Ave intersection, extending along 15th St toward Bartel-Pritchard Square",
@@ -1139,7 +1145,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Between Mayflower Avenue & Edison Avenue \n\nCatch basin on the street corner \nTree pits in front & side of my residence",
@@ -1310,7 +1317,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The tree pits on 120 street between Madison and fifth ave\nBoth sides of the street",
@@ -1475,7 +1483,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The entryway horticultural bed on the Monroe Street entrance of Raymond Bush Playground.",
@@ -1639,7 +1648,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6597
     },
     {
         "name": "46th street and 48th avenue",
@@ -1797,7 +1807,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "47th Street - between 5/6 Avenue (Brooklyn, Sunset Park)",
@@ -1968,7 +1979,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "South side Flushing Avenue between Vanderbilt Avenue and Clinton Avenue, Brooklyn 11205.",
@@ -2139,7 +2151,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "By the Long Island Expressway underpass, near the Woodhaven train station, across the street from the Elmhurst Sculpture Garden, 92st Queens Blvd",
@@ -2293,7 +2306,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5971
     },
     {
         "name": "Flushing Ave between Vanderbilt Avenue and Clinton Avenue",
@@ -2456,7 +2470,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.3612
     },
     {
         "name": "130th Street-Between 5th and Malcolm X Blvd\n( 5th Ave & Lenox Ave)\n\nCourtney Callender Playground\n5th Ave. Between 130th and 131st street",
@@ -2627,7 +2642,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": 0.9531
     },
     {
         "name": "Tree beds on east side of 9th Ave between 20 and 21st streets",
@@ -2792,7 +2808,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "the three flower beds on the Grand Concourse and burnside. On the interior road, not the sidewalks",
@@ -2963,7 +2980,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5574
     },
     {
         "name": "Hook Creek Park - Huxley Streets\n(between Craft Avenue - 253rd Street)\nRosedale (Queens), New York 11422",
@@ -3128,7 +3146,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": -0.0258
     },
     {
         "name": "It's a soil plot which looks like it used to have a tree. It's in the middle of the block.",
@@ -3286,7 +3305,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8885
     },
     {
         "name": "Tree bed in front building",
@@ -3457,7 +3477,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "This spot is directly in front of our home. We would like to adopt this patch of grass but also clean up the other patches of grass in front of the homes on our street from our house on 2333 Story to the corner of Havemeyer and Story. So basically half of our block. Our neighbors will be doing the other half.",
@@ -3618,7 +3639,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8271
     },
     {
         "name": "the tree bed in front of 522/516 Bergen St.  It holds a ginko tree.",
@@ -3789,7 +3811,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6696
     },
     {
         "name": "Brooklyn Heights Promenade (between Pierrepont and Montague Streets)",
@@ -3954,7 +3977,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8478
     },
     {
         "name": "Tree pit on SW corner of Columbus at 89th. Near bus stop",
@@ -4119,7 +4143,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3612
     },
     {
         "name": "Zerega and story",
@@ -4290,7 +4315,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The two tree pits on either side of this address",
@@ -4461,7 +4487,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "On 22nd St there is always trash outside 310 and 320 W 22nd St. I would love to clean up that area and take care of the 2- 3 Tree pits.",
@@ -4640,7 +4667,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7964
     },
     {
         "name": "The tree beds that are on 7th ave between Lincoln and St. Johns, and the ones that wrap around to St Johns towards 8th avenue.   I plan to clean ~500 feet from the corner.",
@@ -4811,7 +4839,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There's the St. Joseph Parking Lot there also.  A trash can is there, but there always seems to be trash laying around.  I usually pick up a few pieces of garbage when I go to Mass.  I would appreciate pickers to pick up the items.",
@@ -4961,7 +4990,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3919
     },
     {
         "name": "The two tree wells in front of our building and two newly planted trees on our side of the block (the south side of E 73rd Street btw 2nd and 3rd Avenues)",
@@ -5126,7 +5156,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8885
     },
     {
         "name": "There is a stretch of sidewalk and grass behind a commercial building between Post Rd and 242nd Street",
@@ -5280,7 +5311,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8402
     },
     {
         "name": "West of 3rd Ave on the north side of 37th St in Manhattan.",
@@ -5451,7 +5483,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.34
     },
     {
         "name": "Between West End Avenue and Riverside drive",
@@ -5622,7 +5655,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "47th St. between 5th and 6th in Sunset Park",
@@ -5787,7 +5821,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9169
     },
     {
         "name": "addresses are east of Fresh Pond Road on the north side of the street. Locations include three street tree pits and one hydrant.",
@@ -5959,7 +5994,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.296
     },
     {
         "name": "Between 7th & 8th Avenue",
@@ -6117,7 +6153,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There is a storage container (for Verizon) permanently parked on this section of the block (side street)",
@@ -6288,7 +6325,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "It is a tree pit on the corner of Mt. Eden Avenue and Morris Avenue, which is across the street from Claremont Park Playground and in front of a private parking lot.",
@@ -6459,7 +6497,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3182
     },
     {
         "name": "Tree pits located on Mt Eden Avenue between Morris Ave and Selwyn avenue",
@@ -6630,7 +6669,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Small business area on 204th Street from Van Cortlandt Ave East and 204th Street to Webster Ave.",
@@ -6787,7 +6827,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9451
     },
     {
         "name": "37th St between 28th Ave and Astoria Blvd, I want to adopt the two tree pits on either side of the address above (by 25-52 & 25-56) and the space between them on the west side of the block. Time-permitting, I will expand my area but this is the only area I'd like to officially commit to.",
@@ -6958,7 +6999,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8316
     },
     {
         "name": "I would like to adopt the north side of 99th Street btwn 3rd and Lex in East Harlem Manhattan It has neglected tree beds that often get used as ash trays and bottle cap bins. The trees and residents of the block deserves and needs better. People ignore the liter because they feel hopeless to change anything but With consistent care the paradigm can shift to hopeless to accomplished and from liter to no liter.",
@@ -7129,7 +7171,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9891
     },
     {
         "name": "2 tree beds on in front of 67 w 68th",
@@ -7300,7 +7343,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "2 trees in front of 181 Hawthorne St., Brooklyn",
@@ -7471,7 +7515,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The block in front of my building between 43rd Ave and Skillman Ave",
@@ -7642,7 +7687,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5093
     },
     {
         "name": "2 trees in front of 181 Hawthorne St., Brooklyn",
@@ -7813,7 +7859,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Bedford between Dekalb and willoughby",
@@ -7974,7 +8021,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3612
     },
     {
         "name": "West 45th Street between 8th and 9th Avenues",
@@ -8131,7 +8179,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "The tree bed directly in front of my apartment 232 North 7th st.\n\nCross streets North 7th between roebling and driggs",
@@ -8302,7 +8351,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7436
     },
     {
         "name": "Greenway located below BQE overpass at Atlantic Avenue and Furman Street.",
@@ -8470,7 +8520,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4215
     },
     {
         "name": "I intend on cleaning the entire block",
@@ -8641,7 +8692,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.2732
     },
     {
         "name": "From 167th to 168th street under the 4 train and alongside a community parking lot. It\u2019s across the street from the precinct",
@@ -8799,7 +8851,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4588
     },
     {
         "name": "West 172nd and Inwood Ave in front and side of the building of 1484 Inwood Ave which includes 4 tree pits and two entrances our own program entrance and around the corner in front of the building",
@@ -8971,7 +9024,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9845
     },
     {
         "name": "It's a very small park/sitting area bordered by St. Nicholas Avenue and Edgecombe Avenue between 136th & 137th in Harlem.",
@@ -9133,7 +9187,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8667
     },
     {
         "name": "115/park ave",
@@ -9298,7 +9353,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3089
     },
     {
         "name": "In the early spring I was able to organize 10 volunteers and clean trash and mulch 15 trees on the cross streets of Greene and Franklin. I was helped by the parks department but I\u2019d like to continue to do so  on my own. Currently am planning another similar event for the fall.",
@@ -9469,7 +9525,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.34
     },
     {
         "name": "Waltham Street between 97 Ave and 101 Ave.\n101 Ave between Waltham Street and 146 Street.",
@@ -9626,7 +9683,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3818
     },
     {
         "name": "Grand between Prospect and St. Marks",
@@ -9797,7 +9855,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Church Ave and East 4th",
@@ -9968,7 +10027,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8979
     },
     {
         "name": "I would like to adopt Lefferts Place between Grand and Classon. It's a fairly long block; given that, I plan to maintain the portion between 56 Lefferts and 88 Lefferts. I am open to expanding my domain once I get going!",
@@ -10139,7 +10199,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0436
     },
     {
         "name": "Port Richmond Avenue and Park streets border my block on this section of New Street.",
@@ -10310,7 +10371,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.765
     },
     {
         "name": "I want to clean a spot in Riverside Park that I pass every day when I walk in the park. There are benches facing the river and often around the benches there is garbage. I would like to keep these areas that are meant to be inviting and peaceful clean!",
@@ -10481,7 +10543,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": 0.9412
     },
     {
         "name": "I would like to choose the spot in front of my building, which is located right across from the entrance to the 4th Ave/9th St subway station, on both sides of the road.",
@@ -10646,7 +10709,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6901
     },
     {
         "name": "Tree pit outside of residence. Beautiful fairly new addition to the block. Park Slope Brooklyn 18st between 3rd and 4th avenues.",
@@ -10817,7 +10881,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5267
     },
     {
         "name": "35th street between 28th Avenue and Astoria blvd",
@@ -10988,7 +11053,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "Tree pit outside of residence. Beautiful fairly new addition to the block. Park Slope Brooklyn 18st between 3rd and 4th avenues.",
@@ -11159,7 +11225,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5267
     },
     {
         "name": "This corner at S 1st and Driggs is just off the busier Grand St and gets a lot of neighborhood foot traffic since it has a crosswalk instead of a light. It\u2019s fairly green because behind the fence on one corner is a large space with trees and bushes.",
@@ -11323,7 +11390,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0644
     },
     {
         "name": "Dean Street Playground paved play area facing Dean Street.",
@@ -11494,7 +11562,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2714
     },
     {
         "name": "Dean Street Playground picnic area facing Bergen Street.",
@@ -11665,7 +11734,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0498
     },
     {
         "name": "33rd Street between Broadway and 31st. I pledge to keep the east side of this street clean!",
@@ -11830,7 +11900,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "I would like to adopt the block that I live on which is 23rd Street between Queens Plaza North and 41st Avenue.",
@@ -12001,7 +12072,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I take care of the southern portion of Dean Street between Rogers and Nostrand Avenues.",
@@ -12172,7 +12244,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7184
     },
     {
         "name": "I would like to contribute to the cleaning up of the Manhattan Avenue Park and approach to it. The closest cross street is Manhattan Avenue and Ash St/Commercial St.",
@@ -12321,7 +12394,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9041
     },
     {
         "name": "There are lots of people who leave dog poop.  The street has potholes and loose gravel. It is a site of heavy use and traffi .",
@@ -12492,7 +12566,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6696
     },
     {
         "name": "I have chosen a section of my neighborhood that I walk with my children and dog along many other community members and tourists visiting the residential parts of the West Village. The stretch of Bank Street between Bleecker and West 4th and then West 4th as it stretches between 7th Ave South and Bank Street! I am trying to clean up parts of the blocks that get hit the most and are missing wire baskets so litter is a real issue.",
@@ -12663,7 +12738,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "Marine Ave between 3rd and 4th Ave",
@@ -12828,7 +12904,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9189
     },
     {
         "name": "I spent my child hood years on that street and always walk by there to visit and reiterate my child hood",
@@ -12985,7 +13062,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5994
     },
     {
         "name": "The corner of St John's & Hampton Place.",
@@ -13149,7 +13227,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6124
     },
     {
         "name": "Spotifying traffic island along brutal BQE Ocean Parkway Ramp .. turned in a treelined triangular tranquil tiny Sanctuary for the community .. now building a Solar Sitting PV Pavillion, and a dog run - most materials donated by local businesses - need volunteers to make this typical leftover transportation turf into a hubspot of humanity .. a sense of identity for the street/block without a name or face..",
@@ -13297,7 +13376,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.0772
     },
     {
         "name": "Alone full block of Hawkins street from the corner of Minnieford Ave to Fordham Place, south side of the block only on the side where there is an abandoned home and lots of trash and a fence and overgrowth and weeds",
@@ -13468,7 +13548,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0681
     },
     {
         "name": "Catch basin in front of house. 8902- 19th avenue.    And one at corner I\u2019d 29th avenue and Shore Parkway. Brooklyn NY,,,,,,,,,,,,,,,,also shore Parkway between 19th ave and Bay 20th street,,,,,,,a strip on a service road,,,always needs a good clean up.",
@@ -13639,7 +13720,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8885
     },
     {
         "name": "greene between central and evergreen, east side of street",
@@ -13804,7 +13886,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Union Turnpike, near 71st Road",
@@ -13958,7 +14041,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "Right in front of my building there\u2019s ALWAYS litter even though the building management cleans the area two to three times a week. Often the trash bins are full of cardboard that no one knows where it comes from. A lot of cigarette filters, and since it\u2019s a big avenue a lot of times trash flies everywhere.",
@@ -14119,7 +14203,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.8305
     },
     {
         "name": "Between 5th Avenue and Mount Morris West.",
@@ -14290,7 +14375,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6597
     },
     {
         "name": "This is area following crossroad of two streets: Harway Ave and Bay 47th street. This area includes Youth & Parish Center and other facitilities.",
@@ -14447,7 +14533,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6249
     },
     {
         "name": "Across from 103 van cortlandt",
@@ -14612,7 +14699,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3182
     },
     {
         "name": "2 Tree Beds in front of 451 41st, between 5th ave and 4th ave in Sunset Park.",
@@ -14783,7 +14871,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5696
     },
     {
         "name": "I would like to adopt this spot and surrounding area around 520 E 88 St. This apartment sits between York and East End Avenue.",
@@ -14954,7 +15043,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4389
     },
     {
         "name": "Cross street is Waldo Avenue",
@@ -15115,7 +15205,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "All of Rivington from Rivington & Allen to Rivington & Chrystie (3 small blocks long including the \u201cAllen Mall\u201d)",
@@ -15280,7 +15371,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4927
     },
     {
         "name": "I'm going to look out for the West side of the block - along Vanderbilt between Park and Flushing Avenues. This includes several different kinds of residences - apartment buildings, townhouses and a city housing building.",
@@ -15423,7 +15515,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7845
     },
     {
         "name": "Rain garden and sidewalk in front of 82 Starr Street (between Knickerbocker & Wilson)",
@@ -15594,7 +15687,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The Forest Park stair entry between Park Lane South and Forest Parkway.",
@@ -15755,7 +15849,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3612
     },
     {
         "name": "monroe btwn franklin and classon, north side",
@@ -15926,7 +16021,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Shaler Ave and Catalpa Ave Ridgewood",
@@ -16083,7 +16179,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Right outside my house, the street, the gutters and the tree pits x 2.",
@@ -16254,7 +16351,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.54
     },
     {
         "name": "Outside of 555 Grand, at the corner of Lorimer and Grand....it's",
@@ -16419,7 +16517,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6808
     },
     {
         "name": "Amsterdam and west 148th street",
@@ -16590,7 +16689,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Northside 183rd Street Between Broadway and Wadsworth Ave.",
@@ -16755,7 +16855,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0772
     },
     {
         "name": "The spot I chose is on 70th ave between cypress hills street and fresh pond road.",
@@ -16926,7 +17027,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.743
     },
     {
         "name": "my cleaning area is mid block where my house is, (between ave L and M)  and the  catch basin on ave M along with 2 tree beds near that corner,  and  the tree beds on either side of my home.",
@@ -17097,7 +17199,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8625
     },
     {
         "name": "94th street between Amsterdam and Columbus. It\u2019s a hugely trafficked area with loads of pedestrians and dogs.",
@@ -17258,7 +17361,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I plan to keep the north side of 48th Street clean from my building to 10th Avenue.",
@@ -17429,7 +17533,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Southeastern corner of the intersection of 218 and Seaman. There is no traffic light or stop signs and people speed by and throw trash out the window. There are three street trees in pretty good shape but could use additional attention. There is a trash can on the corner but it is often full.",
@@ -17593,7 +17698,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "\u201cGatehouse Garden\u201c \nOff Amsterdam & 119th \n\u201cOld World\u201d section along the fence.",
@@ -17747,7 +17853,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.743
     },
     {
         "name": "three tree beds: one in front of 334 E73rd St, one in front of 336 E73rd St, and one in front of the store window with the Sessions73 awning",
@@ -17901,7 +18008,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3818
     },
     {
         "name": "The block between S8th Street and Broadway on Wythe Ave. and potentially the tree bed at Wythe and Broadway.",
@@ -18065,7 +18173,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5719
     },
     {
         "name": "46th st and 48th ave",
@@ -18223,7 +18332,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Olmstead/ Pugsley",
@@ -18381,7 +18491,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6705
     },
     {
         "name": "The tree pit in front of this address.",
@@ -18552,7 +18663,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8126
     },
     {
         "name": "The area that I clean runs River Avenue from 167th Street to 168th Street. It is across the street from the 44th precinct. And under the four train. It is heavily littered with debris.",
@@ -18723,7 +18835,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The spot I chose was the spot across the street from the address I listed above. East Tremont Avenue and Valentine Avenue.",
@@ -18881,7 +18994,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7501
     },
     {
         "name": "The block between S8th Street and Broadway on Wythe Ave. and potentially the tree bed at Wythe and Broadway.",
@@ -19045,7 +19159,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5719
     },
     {
         "name": "Tree well between 20 and 22 west 121st street.",
@@ -19216,7 +19331,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Lucust tree bed on north side of 13th st",
@@ -19387,7 +19503,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The spot is right in front of 182 e 7th street. It is on 7th street between Avenue A and Avenue b.",
@@ -19551,7 +19668,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9622
     },
     {
         "name": "Between Stuyvesant Ave & Lewis Ave",
@@ -19722,7 +19840,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I would like to remove trash on the east side of 9th Avenue between 22nd and 23rd Streets in Manhattan.  It also includes a bike lane tree bed which I maintain in front of 208 9th Avenue.",
@@ -19893,7 +20012,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I choose the the tree pit in front of our apt and when times allows, the whole side of our block.  Cross streets are 7th Ave and 11th Street.",
@@ -20064,7 +20184,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8176
     },
     {
         "name": "The street between 2nd and 3rd ave on 82nd street along the even house numbers!",
@@ -20235,7 +20356,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4574
     },
     {
         "name": "Next to the Bugsy Dog Run at the southwest most corner Astoria Park",
@@ -20382,7 +20504,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6898
     },
     {
         "name": "Pacific St & 6th Ave",
@@ -20540,7 +20663,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9225
     },
     {
         "name": "154th and 10th ave",
@@ -20711,7 +20835,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.34
     },
     {
         "name": "Pharmacy, laundromats and deli are in the area.",
@@ -20853,7 +20978,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "We would like to adopt Riverdale Park as our spot for Riverdale Country School Lower School.",
@@ -21017,7 +21143,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": 0.6105
     },
     {
         "name": "Work out area on the corner of Forest avenue and 156th street",
@@ -21164,7 +21291,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9814
     },
     {
         "name": "I plan to keep my spot clean- Judge Street between Powers and Devoe off the Grand L stop. Definitely my side of the street (the West side) and I will strive to keep both sides clean!",
@@ -21335,7 +21463,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9212
     },
     {
         "name": "The end of East 50th Street, overlooking the FDR Drive and the East River.",
@@ -21493,7 +21622,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.0516
     },
     {
         "name": "I\u2019d like to clean up third ave from 14th st to 17th st in Manhattan. Third avenue blocks near 14th street have a fluctuating amount of trash on the ground. The drains on third ave get clogged with trash so I try and unclog the drains during major rain storms on third ave.",
@@ -21651,7 +21781,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5033
     },
     {
         "name": "Btwn 8 & 9th ave",
@@ -21822,7 +21953,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Five tree pits on DeKalb Ave between Onderdonk and Woodward. The five pits I take care of are in front of 1871 DeKalb extending down to Onderdonk.",
@@ -21993,7 +22125,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Franklin Street between Milton Street and Noble Street",
@@ -22150,7 +22283,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.938
     },
     {
         "name": "I have been cleaning this block (& neighboring blocks) for almost 2yrs now so I would like to try to encourage others to help as it is difficult for just 1 person? I have always done more than what I have put down (451 to 465 West 144th st. - the North side of the st) ,(from Convent to Amsterdam Ave) but figured on some days it's better to know what I have committed too?",
@@ -22321,7 +22455,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9673
     },
     {
         "name": "Court Street between Atlantic Ave. & Union St. (about 10 blocks)",
@@ -22492,7 +22627,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.615
     },
     {
         "name": "Between Amsterdam and Columbus, on a side walk.",
@@ -22657,7 +22793,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9465
     },
     {
         "name": "Northeast corner of 70th Street and Roosevelt Avenue.  \n\nLittle Manila Avenue\nhttps://maps.app.goo.gl/GB29kX1gKVFHB6g56\n\nembankment between BQE, Roosevelt Av and 70th Street \nhttps://maps.app.goo.gl/P4KK4WuMRS396CQV7",
@@ -22815,7 +22952,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8625
     },
     {
         "name": "There is a underground parking garage across the street, a private house, a five story building then Harriet Tubman Junior high school is there.",
@@ -22962,7 +23100,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3182
     },
     {
         "name": "All Tree pits on even number side sidewalk of Bergen Street between 3rd and 4th ave.",
@@ -23133,7 +23272,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "This is a corner on the SE side of the intersection which is also beneath the N/W subway station.",
@@ -23287,7 +23427,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7565
     },
     {
         "name": "There is two unoccupied buildings so it's no sidewalk cleaning done at all.  All cars park diagonal and the Sanation Sweeper don't have access to sweep the street because vehicles don't even move when the sweeper comes around to clean.  The trash is inbeded in the curb.",
@@ -23434,7 +23575,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0258
     },
     {
         "name": "The NE corner of Greene Ave and Carlton Ave. It is the entrance to Cuyler Gore Park.",
@@ -23592,7 +23734,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7783
     },
     {
         "name": "I will be adopting the sidewalk and sewer grates on the corner of Newkirk Ave and E 8th St in Brooklyn.",
@@ -23756,7 +23899,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "There\u2019s and area by a bike rsck that always getting a junked up on monitor and Driggs. Plus 1-2 tree beds I\u2019ll watch over on that corner.",
@@ -23914,7 +24058,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7644
     },
     {
         "name": "Front sidewalk & tree pit garden in front of 341 West 22nd Street NY, NY 10011.\nSituated between 8th and 9th Avenues.",
@@ -24085,7 +24230,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "20th Street btwn 4/5 Avenues, on the north side of the block.",
@@ -24234,7 +24380,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5696
     },
     {
         "name": "4 tree wells in front of 50 Morningside Drive, beginning at north west side of 115th Street and Morningside Drive to middle of the block, heading north.",
@@ -24392,7 +24539,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.5719
     },
     {
         "name": "One hundred feet of the north side of 106th Street just east of Broadway.",
@@ -24556,7 +24704,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "Its by the day care in throgs Neck Houses.",
@@ -24720,7 +24869,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.7906
     },
     {
         "name": "The 300 Block of West 22nd Street will be focus as a member of the Beautification Committee of the West 300 Block Association",
@@ -24891,7 +25041,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8316
     },
     {
         "name": "submitted in an earlier attempt to sign-up and for which I was sent a code but needed to update credit card number and then \"please wait\" lasted forever, so i tried to refresh page and lost all info",
@@ -25062,7 +25213,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7096
     },
     {
         "name": "Cuyler Gore Park",
@@ -25220,7 +25372,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2263
     },
     {
         "name": "we're at 8/22 and there's always trash strewn down the street after trash day due to rats and unhoused activity. we'd like to keep the front are of our building clean whenever possible! (334 W. 22nd)",
@@ -25384,7 +25537,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.872
     },
     {
         "name": "My spot is the long block on Tehama Street from Dahill Road to Chester Avenue. It included many tree beds, 4 catch basins, and a lot of garbage",
@@ -25555,7 +25709,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0023
     },
     {
         "name": "22nd and 9th avenue",
@@ -25726,7 +25881,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I Used above address as placeholder. I am joining as part of the Beautification/Clean-Up Committee for the  Chelsea Neighbors Block Assoc. (300 W21/22/23 blocks) Our committee plans to work together on clean up/ beautification projects all around the area our block assoc covers.",
@@ -25897,7 +26053,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I plan to clean my side of the block on 56th Street between 5th/6th Avenue Clean as often as possible",
@@ -26068,7 +26225,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4404
     },
     {
         "name": "Between DeKalb Ave and Stockholm, and surrounding areas when I can.",
@@ -26232,7 +26390,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "It's a park between Fulton and Greene",
@@ -26397,7 +26556,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "I am across Shore Road park and 5 minutes walk to Narrows Botanical Gardens. I chose NBG",
@@ -26568,7 +26728,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "My building (26 units) is on the North side of W 22nd street (closer to 8th ave) and is next to St. Paul's German Evangelical Lutheran Church (315 W 22).\nI will try and keep my building and the Church's area as clean as possible.\nThanks for the help!",
@@ -26736,7 +26897,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "East side of Henry Street between Amity and Congress. From the corner basin at Henry/Amity to the corner basin on Henry and Congress.",
@@ -26907,7 +27069,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4215
     },
     {
         "name": "The lower stretch of grass in fort Tryon Park between Bennett and 196.",
@@ -27078,7 +27241,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "Grass Area by 6th Ave & 41st",
@@ -27220,7 +27384,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6962
     },
     {
         "name": "Parking lot on Plum Beach.",
@@ -27369,7 +27534,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2023
     },
     {
         "name": "Bus Stop #308435 at Nostrand Av/Fulton St (B44, B44-SBS SHEEPSHEAD BAY KNAPP ST via NOSTRAND)",
@@ -27527,7 +27693,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9252
     },
     {
         "name": "All 4 street corners at the intersection of 102nd Street and West End Avenue.  \nThis includes a sewer drain at the northwest corner.",
@@ -27674,7 +27841,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6478
     },
     {
         "name": "There is a public park directly across the street. It is also towards the end of Manhattan by the Hudson river. It is on 142nd St. in Harlem, New York.",
@@ -27839,7 +28007,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There is a catch basin on the corner of New York Avenue and Glenwood Road in Brooklyn that tends to have litter on it from time to time. Also in front of my apartment building there are times when litter is scattered. This is in the middle of the block on New York Avenue between Glenwood Road and Avenue H.",
@@ -27987,7 +28156,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2042
     },
     {
         "name": "Park Place between New York and Brooklyn, side closer to Eastern Parkway",
@@ -28152,7 +28322,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8519
     },
     {
         "name": "Flower bed/planters/sidewalk area in front of 319 and 317 Washington Avenue.",
@@ -28323,7 +28494,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8118
     },
     {
         "name": "The Tree/Garden area near the public sidewalk that's home to an extremely old and beautiful tree.",
@@ -28488,7 +28660,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5401
     },
     {
         "name": "Tree beds on corner of 28th Ave",
@@ -28659,7 +28832,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0772
     },
     {
         "name": "Tree bed in front of 191 and 195 E. 206th street.",
@@ -28830,7 +29004,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3612
     },
     {
         "name": "153rd St/Courtlandt Avenue- specifically the tree beds in front of 666 Courtlandt Avenue",
@@ -28978,7 +29153,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3612
     },
     {
         "name": "Sunset Park, Brooklyn. Area under the large tree. Between 4th and 5th Avenues and 44th street.",
@@ -29132,7 +29308,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9186
     },
     {
         "name": "I would like to request adopting 37 Street Between 31st Avenue and Broadway",
@@ -29293,7 +29470,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7845
     },
     {
         "name": "We will be cleaning both sides of the street. One side of the street there are houses and apartment buildings.  On the other side of the street, there are trees, bushes and lots of foliage.",
@@ -29457,7 +29635,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9081
     },
     {
         "name": "Broadway Malls, sidewalks along Broadway, and even Riverside Drive!",
@@ -29618,7 +29797,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2516
     },
     {
         "name": "I pick up all litter in the street, curb and sidewalks every weekend on W217th, Park Terrace East, W215th, Park Terrace West and W218th in the general region between Isham Park and W218th St.",
@@ -29779,7 +29959,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.765
     },
     {
         "name": "150 st Nicholas ave",
@@ -29950,7 +30131,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7096
     },
     {
         "name": "This is right across from the Jackie Robinson Community Center and pool",
@@ -30097,7 +30279,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "147 street and riverside",
@@ -30262,7 +30445,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Henshaw and Staff Streets",
@@ -30420,7 +30604,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I live at 360 West 22nd Street and am a member of the 300 West 21st, 22nd & 23rd Streets  Block Association.  The Block Association has a Block Beautification clean-up comittee and schedules clean-ups of the three blocks of 21st, 22nd, and 23rd between the west side of 8th Avenue to the east side of 9th Avenue.  We recently held a clean-up from the north side of 23rd Street to the north side of 22nd Street as well as 8th Avenue between 23rd & 22nd Streets.",
@@ -30579,7 +30764,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5719
     },
     {
         "name": "This is actually just the closest house to my spot, the bike path that leads under the Long Island Expressway to the Kosciuzko Bridge.",
@@ -30733,7 +30919,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": -0.6486
     },
     {
         "name": "There\u2019s a bunch of tree beds on my block, but there\u2019s three tree beds specifically that are always littered or dumped with heavy trash.",
@@ -30882,7 +31069,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "Curb and tree beds by 2 houses",
@@ -31053,7 +31241,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.784
     },
     {
         "name": "Hi. The location is right outside my building.",
@@ -31224,7 +31413,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8809
     },
     {
         "name": "There are two recently planted trees in front of the building, in which I live.\n   I would like to take responsibility for keep this area clean, show pride in our area.\n   These trees are between 3rd and 4th Avenues, closest to 4th Avenue",
@@ -31395,7 +31585,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "between Riverside and Broadway",
@@ -31573,7 +31764,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Jerome and Mosholu across the street from Tracey towers and the bus station lots of garbage by the bus stop and under the train station, we need need garbage bins , I would like to clean that area",
@@ -31715,7 +31907,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.765
     },
     {
         "name": "The location of the spot is the tree and tree pit in front of 478 Onderdonk Ave",
@@ -31879,7 +32072,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5187
     },
     {
         "name": "Rockaway Beach Blvd between Beach 67th and Beach and Saltaire Lane is an area that currently borders building construction. There is a bus stop near by but the closest garbage can is out of site.",
@@ -32026,7 +32220,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.296
     },
     {
         "name": "Union St b/w 7th and 8th avenue",
@@ -32191,7 +32386,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Greenwich and murray",
@@ -32362,7 +32558,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Hudson cross street",
@@ -32516,7 +32713,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "93rd and 3rd",
@@ -32687,7 +32885,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Christopher and Washintom",
@@ -32858,7 +33057,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I\u2019ll get back",
@@ -33000,7 +33200,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The section of Suydam between Broadway and Bushwick Ave - both sides!",
@@ -33171,7 +33372,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.933
     },
     {
         "name": "86,88,90 Bleecker Street, Brooklyn NY 11221 (the front sidewalks of the lots to the left and right of where I live)",
@@ -33342,7 +33544,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "The benches and tree beds along the pedestrian path directly in front of building.",
@@ -33513,7 +33716,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2732
     },
     {
         "name": "Between 74 St, 57th Ave, and Grand Ave",
@@ -33674,7 +33878,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6808
     },
     {
         "name": "Chittenden Ave has a wonderful view of the George Washington Bridge marked on Google Maps as the Chittenden Overlook. It's a great sunset view spot, but visitors often leave empty bags, soda cans, etc.",
@@ -33843,7 +34048,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7845
     },
     {
         "name": "East 8th Street & Beverley Road intersection: 2 catch basins, green space outside the church, tree beds on East 8th, sidewalks at all four corners",
@@ -33990,7 +34196,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7906
     },
     {
         "name": "Calvert Vaux Park (shore parkway) exit 5 or exit 6 on belt parkway",
@@ -34129,7 +34336,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4767
     },
     {
         "name": "221A 22nd Street, between 4th and 5th Aves",
@@ -34294,7 +34502,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6749
     },
     {
         "name": "I just know that there's a spot inside Echo Park that collects so much trash that I bothers me so much when I walk through there because it makes the park itself look like a garbage dump rather than a park.",
@@ -34441,7 +34650,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "I'll adopt the east side of Washington Ave from DeKalb to 283 Washington.",
@@ -34599,7 +34809,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "West 132nd between Lenox and 7th Ave",
@@ -34756,7 +34967,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I\u2019d like to clean one side of the street on Grattan st between porter ave and varick Ave. There are a couple of small tree beds on the block",
@@ -34921,7 +35133,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.944
     },
     {
         "name": "The premises of the playground and surrounding trees",
@@ -35075,7 +35288,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1779
     },
     {
         "name": "The spot has a lot of social areas that are used for BBQs and parties either by the basketball courts or up on the hill next to the lake. Tons of trash accumulates as a result.",
@@ -35239,7 +35453,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9543
     },
     {
         "name": "Diamond Street between Nassau and Driggs in Greenpoint",
@@ -35410,7 +35625,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.802
     },
     {
         "name": "Catch Basin at the SE Corner of 3rd Ave & 117th St",
@@ -35568,7 +35784,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "162nd and summit Avenue",
@@ -35733,7 +35950,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8834
     },
     {
         "name": "Catch Basin Sewer, corner of Throop Ave and Willoughby Ave near Tranquility Farm - Community Garden, GreenThumb NYC Parks Site. ",
@@ -35887,7 +36105,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5267
     },
     {
         "name": "31st drive & 21st street / 14th st",
@@ -36052,7 +36271,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Area has a hill in which the surrounding place has trees and grass.",
@@ -36206,7 +36426,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1655
     },
     {
         "name": "Under the large tree in front of the vacant lot",
@@ -36364,7 +36585,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "north side of 21st on east side! will try and get as much as possible with the chelsea association",
@@ -36511,7 +36733,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6597
     },
     {
         "name": "Near McDonald's in Richmond/Forest and the gas station near Lake and Forest ave",
@@ -36658,7 +36881,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "Pugsley avenue between Bruckner Blvd and Chatterton avenue",
@@ -36805,7 +37029,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8544
     },
     {
         "name": "East 107th Block, btwn Flatlands Ave & Ave J, Sidewalks & Tree Pits.",
@@ -36970,7 +37195,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.128
     },
     {
         "name": "The spot I adopted, 153 Madison Avenue along the East 32nd Street block toward Park Avenue in Midtown South (NoMad) in Manhattan, has three tree beds (tree pits) for street trees on the 32nd Street side of the building. I am committed to keeping the tree beds and surrounding sidewalks clean.",
@@ -37135,7 +37361,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8442
     },
     {
         "name": "The south side of East 33rd Street between Madison Ave. and Park Ave. is a busy pedestrian block in Midtown Manhattan that is not in a business improvement district (BID). This is a route to the Empire State Building to the west at Fifth Avenue and the No. 6 subway station and a high school to the east at Park Ave.  \n\nThere are three tree beds (tree pits) for street trees in front of 28 East 33rd Street and four small retail stores. I am committed to keeping the tree beds clean, as there are often cigarette butts, vaping cartridges, napkins, bottles, cups, lids and consumer packaging litter discarded there and on the block.",
@@ -37293,7 +37520,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9114
     },
     {
         "name": "Jerome Ave Train Station",
@@ -37457,7 +37685,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "A mega church located on 116th and 7th ave (Adam Clayton Powell ave)",
@@ -37621,7 +37850,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There is a tree in front of my house that collects garbage all the time. We usually clean it by picking it up with our hands but having tools would help keep it clean!",
@@ -37782,7 +38012,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0516
     },
     {
         "name": "My spot comprehends the lakeshore/path between West 72nd and West 74th streets.",
@@ -37940,7 +38171,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.775
     },
     {
         "name": "It's by the parking lot area of the Salvation Army Bronx Citadel center. About half of a block - there's a community garden on the corner and park at the other end.            Cross street Elton Ave",
@@ -38097,7 +38329,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4729
     },
     {
         "name": "The south side of the street from Amsterdam to Convent on W 145th Street. I\u2019ve organized some folks in Hamilton Heights to work with me to keep this section clean. We keep our and our neighbor\u2019s sidewalk clean. ",
@@ -38268,7 +38501,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.1779
     },
     {
         "name": "West 153rd St. b/t Amsterdam & St Nicholas Ave: tree bed, fenced-in triangle, bldg entrance. 1.) The tree bed is on the Amsterdam side of the block near a deli.\n2.) The fenced-in triangle is owned by 402 West 153rd Street and it is between our building and a community garden.\n3.) The street in front of the entrance to 402 West 153rd Street (my bldg).",
@@ -38426,7 +38660,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3506
     },
     {
         "name": "This spot is in front of my house btw Hamilton Place and Broadway",
@@ -38597,7 +38832,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1829
     },
     {
         "name": "142nd & Convent",
@@ -38768,7 +39004,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8016
     },
     {
         "name": "I care mainly for the shared tree bed outside 191 and 193 Amity Street. The tree is a London Plane tree of the Sycamore family. I also care for the tree beds outside 189, 195, 197, 199, 201 Amity. They are all on the North side of the street. I also pick up trash on the sidewalk area between 189-205 Amity going all the way to the corner intersection at Court and Amity then sometimes slightly around it.",
@@ -38939,7 +39176,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8979
     },
     {
         "name": "It's the area in front of my building.",
@@ -39104,7 +39342,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.9019
     },
     {
         "name": "I have been cleaning Amity Street between Hicks and Henry Streets in Brooklyn several times a week.",
@@ -39275,7 +39514,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "This spot is directly in front of our storefront at Zero Waste Daniel!",
@@ -39446,7 +39686,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.5562
     },
     {
         "name": "I'll be focusing on the block I live on -- 25th rd between 18th st and 21st st. Specifically the side of the street my building is on, the south side. The building owners on the north side do a better job keeping the street and the tree beds clear.",
@@ -39617,7 +39858,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.2815
     },
     {
         "name": "I want to adopt the block that is surrounded by Seaman Avenue, Payson Avenue, Beak St, and Dyckman St. Just that one block",
@@ -39774,7 +40016,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I plan to cover both east and west sides of Clinton Street between Baltic and Kane streets",
@@ -39945,7 +40188,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "To the right of the cafe",
@@ -40109,7 +40353,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6486
     },
     {
         "name": "I would like to help maintain Elmhurst Park located on 57th Ave & Grand Ave clean. As it is prone for attracting visitors to host parties and picnics, leaving garbage behind.",
@@ -40280,7 +40525,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.507
     },
     {
         "name": "I'll be focusing on Apollo St between Nassau and Driggs Ave.",
@@ -40451,7 +40697,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "146 Stanton Street is between  cross streets Norfolk and Suffolk Streets.  In front of a high school.",
@@ -40622,7 +40869,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9186
     },
     {
         "name": "It is the tree box directly in front of my address.",
@@ -40793,7 +41041,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Off of Forest Ave, there's a tree bed not cleaned by the Mexican restaurant, La Casita - it's across from a business who doesn't seem to tend it. On Google maps the business is called \"Positive Auto Leasing & Sales,\" but I don't know if it's currently operating.",
@@ -40951,7 +41200,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "37th Street between 31 Ave and 30 Ave",
@@ -41116,7 +41366,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4767
     },
     {
         "name": "Front of the house on Palmetto Street. The nearest cross street is 64th street and Palmetto Street.",
@@ -41287,7 +41538,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "My spot is the tree in front of my building.",
@@ -41452,7 +41704,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9313
     },
     {
         "name": "I usually have my trusty tongs to pick up rubbish along 207th St and Broadway to Dyckman St. ",
@@ -41616,7 +41869,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4753
     },
     {
         "name": "Tree wells on 52 Avenue bw 70 and 71 are",
@@ -41787,7 +42041,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "Between Sumner and throop, close to the throop ave corner.",
@@ -41941,7 +42196,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Caton Ave and east 18th street",
@@ -42112,7 +42368,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7345
     },
     {
         "name": "Corner of Macon and Lewis",
@@ -42283,7 +42540,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "All around Central Park. I walk the dog, bring my child, and run and bike all over.",
@@ -42433,7 +42691,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5972
     },
     {
         "name": "It is across the street from a carwash and under the six line",
@@ -42587,7 +42846,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "We ask to adopt the 2 tree beds in front of our building between West End Avenue and Broadway. Thank you.",
@@ -42758,7 +43018,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "Right in front of 1633/1647 the trees Thay are up front always have trash and poop in the dirt so I want to try to maintain those. I also would like to keep the nearest drain clear of debris.",
@@ -42916,7 +43177,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1804
     },
     {
         "name": "12th Street between 6th and 7th Avenues - the tree pits/sidewalk in front of 386 and 386A 12th Street",
@@ -43087,7 +43349,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "IN front of my apartment and potentially a tree plot that is just full of dirt and weeds and trash. this one is in front of the corner funeral home on corner of 30th ave and 27th street.",
@@ -43241,7 +43504,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "The cross streets are Pacific St & Schenectady Ave the corner cap and tree beds & the garden\u2019s fence line and curb.",
@@ -43399,7 +43663,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5849
     },
     {
         "name": "Van Siclen Ave Between Piktin and Belmont and",
@@ -43570,7 +43835,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.7797
     },
     {
         "name": "The even-numbered side of the block, on Harman Street between Woodward and Fairview Aves.",
@@ -43724,7 +43990,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.9451
     },
     {
         "name": "I am interested in cleaning the area around the fountain of City Hall Park and pick up trash on the walkways of the park.",
@@ -43871,7 +44138,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1796
     },
     {
         "name": "North kent / south Franklin waterfront",
@@ -44042,7 +44310,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "Gates and bedford aves in bedstuy, bk",
@@ -44206,7 +44475,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Otis Ave between Edison and East Tremont Ave",
@@ -44377,7 +44647,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.34
     },
     {
         "name": "Cedar place",
@@ -44534,7 +44805,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Tilden street between Barnes Avenue and Gunhill Road",
@@ -44698,7 +44970,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7717
     },
     {
         "name": "129th street between park and madison avenues",
@@ -44862,7 +45135,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "By The MTA train yard",
@@ -45009,7 +45283,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6808
     },
     {
         "name": "It is ON THE BEACH, along the shoreline, between 116th and 117th Street.",
@@ -45167,7 +45442,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "This is a tree pit outside of my building. The pit is currently empty, and the Parks Department denied my request for a tree to be put in \"due to conflicts with surrounding infrastructure\".",
@@ -45338,7 +45614,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7717
     },
     {
         "name": "The Beach at 123rd and 124th street",
@@ -45502,7 +45779,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "My focus is around the south side of an intersection where I own properties. I regularly pick up the trash on my daily outings. 9613 Rockaway Beach Blvd / 199 Beach 96th Street / 9519 Rockaway Beach Blvd.",
@@ -45667,7 +45945,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2732
     },
     {
         "name": "Residential block that has problems of traffic in the neighborhood, followed by parties. Problematic people littering and dropping their trash.",
@@ -45838,7 +46117,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.2617
     },
     {
         "name": "As a residential street, tickets are issued by sanitation for garbage thrown and unfortunately the homeowners pay the price",
@@ -45995,7 +46275,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6249
     },
     {
         "name": "The triangular block bounded by Hunter st, 27th st, and 42nd rd in Long Island City",
@@ -46166,7 +46447,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7351
     },
     {
         "name": "In front of my building to smoke with 2 Dogwood Dr. and elm drive",
@@ -46330,7 +46612,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "Inside of the rector park, first 2 benches from the 225 rector PL side entry on the right.",
@@ -46493,7 +46776,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8402
     },
     {
         "name": "In front of my building to smoke with 2 Dogwood Dr. and elm drive",
@@ -46657,7 +46941,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "Yes it's the entire blocknof 109th between Broadway and Amsterdam. This block is very deplorable. It has lots of trash garbage large burrows in the tree beds holes in the street want to tidy it up. The tenants are in distress. So I am advocating for a beautification clean up day! We need supplies would be much appreciated.",
@@ -46828,7 +47113,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.1027
     },
     {
         "name": "The side walk of my streets have a lot of trees. I want to clean the tree beds of the tree in front of my building.",
@@ -46985,7 +47271,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8591
     },
     {
         "name": "Shore road park runs along the belt parkway from 4th ave to 69th street",
@@ -47148,7 +47435,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5994
     },
     {
         "name": "Outside Jefferson Market Garden",
@@ -47312,7 +47600,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "On 165th, it\u2019s the block between Broadway and St Nicholas.  After the corner of Broadway there are no buildings, just a parking lot.  The block is tree lined.  There is always so much trash dumped there.",
@@ -47483,7 +47772,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4019
     },
     {
         "name": "Between 30th and 31st avenues, east side of the street",
@@ -47647,7 +47937,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Underneath BQE between Vanderbilt & Clermont",
@@ -47799,7 +48090,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6249
     },
     {
         "name": "The stretch of beach between 124 and 125th streets",
@@ -47957,7 +48249,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5093
     },
     {
         "name": "Vanderbilt and Clermont",
@@ -48120,7 +48413,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6249
     },
     {
         "name": "This spot is the median strip between the odd and even addresses on Riverside Dr. North of 158th Street and Edward M Morgan Place",
@@ -48284,7 +48578,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9584
     },
     {
         "name": "Beach 56th place between Rockaway beach Blvd and Rockaway beach boardwalk.",
@@ -48442,7 +48737,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8402
     },
     {
         "name": "Clean up on Monroe street between Franklin and Bedford in Brooklyn",
@@ -48613,7 +48909,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5423
     },
     {
         "name": "The whole block 37th ave from 91 to 92 nd street and around the corner sw 92nd street.",
@@ -48771,7 +49068,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9902
     },
     {
         "name": "In front of the building",
@@ -48935,7 +49233,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Between 5th Ave & University pl",
@@ -49099,7 +49398,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "It's a pretty big park, Williamsbridge Oval (off of Gun Hill Road)",
@@ -49252,7 +49552,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8947
     },
     {
         "name": "Washington Avenue between Atlantic Avenue and Fulton Street",
@@ -49416,7 +49717,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7003
     },
     {
         "name": "This is a step street (aka \"sidewalk staircase\") between Heath Avenue and Bailey Avenue in Kingsbridge Heights, Bronx, that is in dire need of care. I have lived in my apt on Heath ave for a few years now and I have never seen this step street look like this. There are discarded on the steps, on the side (particularly one side) and the weeds have grown so much that half of one side rail is unusable--one really has to stretch the arm out to reach it because of tall weeds. I have made numerous complaints to 311, both by phone and online, and contacted the local community board. Apparently DSNY is responsible for the steps, and DOT, for the side. I think DSNY cleaned only once or twice, and no city workers ever came to clear the side.",
@@ -49563,7 +49865,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1531
     },
     {
         "name": "Tree bed between 6th and 7th Avenues and surrounding sidewalk",
@@ -49734,7 +50037,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "9th Ave & W. 22 Street. SE corner",
@@ -49905,7 +50209,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6486
     },
     {
         "name": "Three tree beds in front of New York Presbyterian, on 41 Street & 30th Ave.",
@@ -50070,7 +50375,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The tree in front of my apartment has trash/ food in it a lot - I\u2019d be happy to go down the block a bit to other trees and between cars.",
@@ -50241,7 +50547,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8555
     },
     {
         "name": "Between Franklin and Eagle",
@@ -50412,7 +50719,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "88th between East End/York",
@@ -50583,7 +50891,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.926
     },
     {
         "name": "The tree in front of my apartment has trash/ food in it a lot - I\u2019d be happy to go down the block a bit to other trees and between cars.",
@@ -50754,7 +51063,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8555
     },
     {
         "name": "West side of Claremont between Willoughby and Myrtle",
@@ -50925,7 +51235,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "76th st and 1st Ave.",
@@ -51089,7 +51400,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "In front of 5929 Grove Street, there is an London Planetree in a pit that has not been registered through the NYC Parks Tree map program.",
@@ -51254,7 +51566,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8047
     },
     {
         "name": "From 1201 to 1213\nBetween Westchester Ave and 172nd St.\nSide of AT&T building/ store",
@@ -51425,7 +51738,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5719
     },
     {
         "name": "MS 890 on the corner of Coney Island Avenue and Hinckley Place in Brooklyn.",
@@ -51586,7 +51900,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7096
     },
     {
         "name": "A neighbor and myself are aiming to start a group to clean the entire area under the Williamsburg bridge along Delancey Street from Ridge Street to FDR Drive.",
@@ -51757,7 +52072,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6777
     },
     {
         "name": "Clinton Street between Amity St & Pacific St on the right-hand (East) side of the street.",
@@ -51928,7 +52244,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "The building is at the SW corner of the intersection of Clinton and Amity Streets, in the Cobble Hill neighborhood of Brooklyn.  The sidewalk of the property extends from a point 75 feet south of the intersection to a point 115 east of the intersection.",
@@ -52099,7 +52416,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "Congress St overpass of BQE. Congress / Hicks Cross Street. Makes sense to start small on just the south side and as practical move on the north side - cleaning sidewalk, keeping litter free. \n\nWould like a chance to beautify with small planters and enhance with free lending library if permissible.",
@@ -52249,7 +52567,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9296
     },
     {
         "name": "Middle of block between court and Clinton",
@@ -52420,7 +52739,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "11th St between 7th Ave and 6th Ave is a residential block in Park Slope, Brooklyn.",
@@ -52591,7 +52911,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9508
     },
     {
         "name": "I'll take care of the tree beds on my side of Cheever Pl from corner of Degraw, halfway up Cheever Pl towards Kane St.",
@@ -52762,7 +53083,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "WE ARE LOCATED IN A STOREFRON BETWEEM LEWIS AVE & STUYVESANT AVE.",
@@ -52933,7 +53255,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1531
     },
     {
         "name": "The dead end alley of Verandah - between Clinton Street and the dead end.",
@@ -53104,7 +53427,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.68
     },
     {
         "name": "Between the North and Soutbound lanes of Allen Street there is a median park that gets a lot of trash on it.",
@@ -53275,7 +53599,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4767
     },
     {
         "name": "10th st between 5th Ave & University place",
@@ -53440,7 +53765,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Between York avenue and the east river",
@@ -53611,7 +53937,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "72nd Avenue &, 112th St, Forest Hills, NY 11375\n\nNext to the entrance of Willowlake playground",
@@ -53776,7 +54103,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3818
     },
     {
         "name": "There is a tree in between two houses.",
@@ -53941,7 +54269,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7783
     },
     {
         "name": "The area between 112th Street and 110th Street, 70th Road and 71st Avenue",
@@ -54088,7 +54417,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4215
     },
     {
         "name": "The cross street is 61st Ave and there is a playground on the corner.",
@@ -54242,7 +54572,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8126
     },
     {
         "name": "The tree beds in front of Zion Lutheran Church which is between Clark ans Pierrepont.",
@@ -54406,7 +54737,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There are 2 beds in front of 561 W 159TH ST. In between Amsterdam & Broadway. One of our Girl Scouts owns the townhouse.",
@@ -54577,7 +54909,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9313
     },
     {
         "name": "the bottom of the W 229th step street on Heath avenue has a small park area with tree beds and benches.",
@@ -54748,7 +55081,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7783
     },
     {
         "name": "The spot is Barnes Avenue, between Bruner Street and E 239th Street, Bronx, NY 10466.",
@@ -54919,7 +55253,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9325
     },
     {
         "name": "It's a corner where two quiet streets end and where people hang out on the weekends.",
@@ -55066,7 +55401,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5719
     },
     {
         "name": "The northeast corner of the intersection of Kingsland Ave and Richardson",
@@ -55237,7 +55573,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8078
     },
     {
         "name": "Baisley Blvd between Merrick Blvd and guy brewer",
@@ -55384,7 +55721,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "It is in the middle of the block between Main Street and Grand Central Parkway service road. I can be responsible for the catch basins on both sides of the street, the tree beds on might block as well as keeping the curb clear of debris.",
@@ -55555,7 +55893,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3818
     },
     {
         "name": "Between Lexington and Third on the south side of the street.",
@@ -55713,7 +56052,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Baisley Blvd between Merrick Blvd and guy brewer",
@@ -55860,7 +56200,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "Tree bed nearer to corner of Quincy & Nostrand Avenue",
@@ -56031,7 +56372,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "corner of W 21 St and 9th Ave, tree bed and sidewalk in front of building",
@@ -56202,7 +56544,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4404
     },
     {
         "name": "In front of a school",
@@ -56367,7 +56710,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Warren st, between Clinton and court",
@@ -56525,7 +56869,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2225
     },
     {
         "name": "South side of Kane Street between Court and Clinton",
@@ -56696,7 +57041,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "East 7th street and Caton Place",
@@ -56861,7 +57207,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2023
     },
     {
         "name": "on President street (south side) between Clinton and Court.",
@@ -57032,7 +57379,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9042
     },
     {
         "name": "East 7th street and Caton Place",
@@ -57197,7 +57545,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2023
     },
     {
         "name": "This is the west side part of the W 22nd block that I want to help keep clean.",
@@ -57368,7 +57717,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5423
     },
     {
         "name": "Clinton Street between Kane and Degraw",
@@ -57539,7 +57889,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.802
     },
     {
         "name": "Covert St. between Bushwick Ave and Broadway",
@@ -57710,7 +58061,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.25
     },
     {
         "name": "Warren st between Clinton and Henry",
@@ -57859,7 +58211,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Inside the Lillian Wald NYCHA complex, the gated area just outside the House of Good Deeds",
@@ -58017,7 +58370,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8834
     },
     {
         "name": "Between Hillside Ave and the southwest half in front of 1 Bogardus Place",
@@ -58181,7 +58535,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Around my building but I also really want to pick up trash from the circle art installation area by the river that has the six spherical stones",
@@ -58346,7 +58701,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Side walk from 41st St/36th Ave to 41st St/Northern Blvd and to Steinway/Northern",
@@ -58511,7 +58867,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4767
     },
     {
         "name": "42nd road in LIC between 27th St and Crescent",
@@ -58676,7 +59033,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "48th Ave and 11th St",
@@ -58847,7 +59205,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8225
     },
     {
         "name": "Queens Plaza S between Crescent St and 23rd St",
@@ -59012,7 +59371,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The tree bed in front of 229 Clifton Place.",
@@ -59183,7 +59543,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8555
     },
     {
         "name": "Dutch kills green park, Jackson Ave",
@@ -59351,7 +59712,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "This corner and especially by the tree is always riddled with garbage.",
@@ -59505,7 +59867,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.128
     },
     {
         "name": "By the back entrance of the Target.",
@@ -59663,7 +60026,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7264
     },
     {
         "name": "Dutch Kills Playground",
@@ -59828,7 +60192,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8683
     },
     {
         "name": "between 30th + 31st Ave",
@@ -59985,7 +60350,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "This is Hoyt North between 26/27 ST, and specifically the tree beds near the curb. There is often trash here likely from the traffic of drivers coming off the highway and heading to 21 ST to go south. I would like to ensure it is picked up. I included the closest address maps would pick up.",
@@ -60156,7 +60522,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6997
     },
     {
         "name": "The tree bed on my block and the walk between Broadway and Steinway",
@@ -60327,7 +60694,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "Eckford between meserole and Norman!",
@@ -60498,7 +60866,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "34th Ave and Broadway",
@@ -60662,7 +61031,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The block on 30th St, between 30th Ave and 30th Dr in Astoria, Queens.",
@@ -60820,7 +61190,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.717
     },
     {
         "name": "80th St between 37th avenue and 34th avenue in Jackson Heights",
@@ -60981,7 +61352,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8141
     },
     {
         "name": "32nd St between Astoria Blvd and 24th Ave",
@@ -61152,7 +61524,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7777
     },
     {
         "name": "From Greenpoint ymca on messerole to manhattan Avenue, north on Manhattan Avenue and east onto Calyer street",
@@ -61323,7 +61696,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "31st avenue and 33rd street - our drains are often clogged with leaves and trash",
@@ -61488,7 +61862,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": 0.9323
     },
     {
         "name": "Oak st and west.",
@@ -61659,7 +62034,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "25 road is a dead end street off of 27 street",
@@ -61820,7 +62196,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Its a popular intersection with a Citibike location.",
@@ -61974,7 +62351,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.0235
     },
     {
         "name": "On Steinway in between 25th Ave and Astoriab Blvd.",
@@ -62139,7 +62517,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5927
     },
     {
         "name": "Doughboy plaza & adjacent park",
@@ -62307,7 +62686,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "My side of 36th street from house number 2849 to about halfway up the block.  I don\u2019t think I could do my entire side of the block but I will try.",
@@ -62478,7 +62858,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5719
     },
     {
         "name": "31st Drive, between 14th street and 21st street",
@@ -62649,7 +63030,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "N3rd and Berry",
@@ -62820,7 +63202,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4754
     },
     {
         "name": "This area is under the 7 subway on Roosevelt avenue and crosses 79th street. The spot will include the Citi bike rack, and a large tree , about 1/3 of 79th street.",
@@ -62978,7 +63361,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.7351
     },
     {
         "name": "This is Hoyt North between 26/27 ST, and specifically the tree beds near the curb. There is often trash here likely from the traffic of drivers coming off the highway and heading to 21 ST to go south. I would like to ensure it is picked up. I included the closest address maps would pick up.",
@@ -63149,7 +63533,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6997
     },
     {
         "name": "This intersection is beautiful because of its proximity to the park and garden. However, there is very little coverage at night, so There are a lot of car break ins (broken glass) and trash.",
@@ -63292,7 +63677,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "I typically go for walks on the Open Street. Wouldn't mind helping out keeping the streets clean.",
@@ -63450,7 +63836,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "N5th and Kent Ave",
@@ -63614,7 +64001,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2382
     },
     {
         "name": "Its across from my apartment, by our mailbox. it's a water drain plot, which usually gets trash thrown in it.",
@@ -63785,7 +64173,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6124
     },
     {
         "name": "49th Street between 30th Ave and 28th Ave",
@@ -63950,7 +64339,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0772
     },
     {
         "name": "Myrtle Ave",
@@ -64121,7 +64511,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0516
     },
     {
         "name": "Withers St between Graham and Humboldt",
@@ -64275,7 +64666,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.634
     },
     {
         "name": "28th st between 21st Ave and 20th ave west side",
@@ -64440,7 +64832,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7177
     },
     {
         "name": "44th st and 43rd ave",
@@ -64601,7 +64994,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Meserole Ave between eckford and mcguinness",
@@ -64772,7 +65166,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I live in the triangle between Newtown Ave, Astoria Blvd, and 23rd st.",
@@ -64918,7 +65313,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "My building is on the corner of Whitney Ave and Benham St. There is a drain that frequently gets backed up, causing debris to build up at the intersection. Further made worse my cars driving over it all day.",
@@ -65083,7 +65479,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I\u2019m happy to cover all of 42nd St between Broadway & 34th Ave",
@@ -65254,7 +65651,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9076
     },
     {
         "name": "34th Ave between 24th and 28th streets.",
@@ -65418,7 +65816,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.128
     },
     {
         "name": "67th road up to queens boulevard. Id like to include the micro park next to the walking overpass above the lirr rails.",
@@ -65589,7 +65988,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8481
     },
     {
         "name": "The stretch of Graham Ave. between Moore St and Varet St.",
@@ -65760,7 +66160,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9225
     },
     {
         "name": "On the corner of the school and Maria Hernandez!",
@@ -65925,7 +66326,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9838
     },
     {
         "name": "34th ave between steinway and 41st street",
@@ -66083,7 +66485,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8655
     },
     {
         "name": "East 2nd St. between 1st Ave and Ave A",
@@ -66241,7 +66644,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "9th st next to Kent ave",
@@ -66399,7 +66803,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "at the cross street of Stockholm and Central ave",
@@ -66570,7 +66975,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5093
     },
     {
         "name": "The whole square block, from the NW corner of 84th St and 35th Ave, up to 34th Ave, over to 85th St, back down to 35th Ave and over the the starting corner.",
@@ -66717,7 +67123,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8514
     },
     {
         "name": "73rd Street",
@@ -66882,7 +67289,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Across the street from the Baypointe Apartments. It\u2019s a steep hill that stops at a fence. On the other side of the fence is a golf course and to the left is Vivo.",
@@ -67046,7 +67454,8 @@
             "rats": false,
             "environment": true,
             "already": false
-        }
+        },
+        "sentiment": -0.34
     },
     {
         "name": "myrtle/suydam. by the dashmart specifically!",
@@ -67217,7 +67626,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Jefferson avenue between Broadway and Bushwick, but could go all the way to Saratoga park",
@@ -67388,7 +67798,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Himrod Street Between Knickerbocker and Irving Street",
@@ -67549,7 +67960,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "East side of Woodpoint from Jackson to Conselyea.",
@@ -67720,7 +68132,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9402
     },
     {
         "name": "George between Central and Wilson",
@@ -67891,7 +68304,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "This spot is on the southwest corner of the 30th ave and 42nd street intersection in Astoria.",
@@ -68056,7 +68470,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "Sidewalk on the east side of 43rd Street, between 31st Ave/30 Ave in Astoria Queens",
@@ -68227,7 +68642,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "The west side of Union Ave between Withers St and Meeker Ave.",
@@ -68398,7 +68814,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8724
     },
     {
         "name": "Both sides of 215th Place Between 46th Ave and 47th Ave.",
@@ -68552,7 +68969,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7845
     },
     {
         "name": "24th Ave and 27th street in Astoria. Avenue is a mix of residential buildings and businesses. Side streets are residential.",
@@ -68723,7 +69141,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The sidewalk and treebeds in front of 30-92 + the surrounding couple addresses.",
@@ -68894,7 +69313,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "43rd Street and 25th Avenue",
@@ -69065,7 +69485,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Putnam between Evergreen and Bushwick",
@@ -69236,7 +69657,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0772
     },
     {
         "name": "Will focus on the sidewalk outside 2819 33rd Street and aim to cover the northern half of the block, walking along the sidewalk that is on the side of 2819 33rd Street. Will cover about half the block on one side, ending at 28th Ave.",
@@ -69407,7 +69829,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "28th St from Ditmars to 21st Ave",
@@ -69578,7 +70001,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5719
     },
     {
         "name": "Knickerbocker Ave in between harman and Greene street",
@@ -69739,7 +70163,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8016
     },
     {
         "name": "45th St on 47th avenue, I can clean in front of my apartment and near any trees or grates ! :)",
@@ -69890,7 +70315,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "44th and 43rd street between skillman and Greenpoint blvds.",
@@ -70061,7 +70487,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I'd like to adopt the tree bed directly in front of my building as well as the one next to my building. I would also like to adopt the catch basin and sidewalk within this area as well.",
@@ -70225,7 +70652,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9292
     },
     {
         "name": "The area around the cross streets of Manhattan Ave and 77 Commercial in Greenpoint including the area in front of the Manhattan Ave Park.",
@@ -70389,7 +70817,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.1306
     },
     {
         "name": "This spot is a small traffic triangle between two streets off the main boulevard in South Greenpoint. It has so much potential but is usually just littered with trash and mess. The greenery is very unkempt and a mess most of the time.",
@@ -70536,7 +70965,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7901
     },
     {
         "name": "Near intersection of Leonard and Calyer. Will pick up the trash on the sidewalk and near the storm drain from my house to the school.",
@@ -70707,7 +71137,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Sackett street between Court & Smith street",
@@ -70878,7 +71309,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "34th Avenue, south side, between 80th & 81st Streets, Jackson Heights 11372.",
@@ -71046,7 +71478,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "34th Avenue, south side, between 80th & 81st Streets, Jackson Heights 11372.",
@@ -71214,7 +71647,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "34th Avenue, south side, between 80th & 81st Streets, Jackson Heights 11372.",
@@ -71382,7 +71816,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "34th Avenue, south side, between 80th & 81st Streets, Jackson Heights 11372.",
@@ -71550,7 +71985,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Melrose St between Knickerbocker Ave and Wilson Ave",
@@ -71721,7 +72157,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "44th st and 25 ave",
@@ -71879,7 +72316,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4588
     },
     {
         "name": "48th Ave between 39th Pl and 40th St. Outside the elementary school and playground.",
@@ -72037,7 +72475,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6808
     },
     {
         "name": "I'd like to cover the west side of 28th Street between Ditmars and 23rd Ave!",
@@ -72208,7 +72647,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9395
     },
     {
         "name": "Henry and Congress",
@@ -72379,7 +72819,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The 4 tree pits on 52nd St at the corner with 39th Ave",
@@ -72550,7 +72991,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "Palmetto Street between Wilson Avenue and Central Avenue",
@@ -72700,7 +73142,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.8827
     },
     {
         "name": "Near union square.\nMy favorite street!",
@@ -72871,7 +73314,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Its located in Bushwick, Brooklyn. Mainly a tree bed that collects trash from the local restaurants and middle school kids that litter.",
@@ -73042,7 +73486,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4767
     },
     {
         "name": "Linden from Evergreen to Central on the odd numbered side of the street",
@@ -73206,7 +73651,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "Linden on odd side street between Evergreen & Central",
@@ -73370,7 +73816,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4767
     },
     {
         "name": "Astoria Health Playground--it is always a mess there",
@@ -73539,7 +73986,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.25
     },
     {
         "name": "The entire block of around 35th st between 34 ave and 35 ave",
@@ -73710,7 +74158,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3657
     },
     {
         "name": "S 6th St between Kent Ave and Wythe Ave",
@@ -73867,7 +74316,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3164
     },
     {
         "name": "Intersection of Kingsland and Maspeth, at the bus stop.",
@@ -74038,7 +74488,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3804
     },
     {
         "name": "Eldert St between Wilson and Knickerbocker",
@@ -74209,7 +74660,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The west side of Frederick Douglass Blvd. between 145th St. & 146th St.",
@@ -74367,7 +74819,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.1007
     },
     {
         "name": "First Tree pit located on the NW corner of 9th street and 27th avenue, in front of 26-45 9th street.",
@@ -74532,7 +74985,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5106
     },
     {
         "name": "Intersection of Ralph and Monroe",
@@ -74686,7 +75140,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Calyer and west street. Often trash in the plant beds and on the corners",
@@ -74844,7 +75299,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6114
     },
     {
         "name": "Tree pit in middle of the block",
@@ -75009,7 +75465,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "There is a catch basin on the corner of 50th Street and 30th Ave which I would like to adopt.",
@@ -75180,7 +75637,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7783
     },
     {
         "name": "Myrtle Ave & Suydam st",
@@ -75345,7 +75803,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "24th street and 24th avenue",
@@ -75516,7 +75975,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4215
     },
     {
         "name": "23rd Avenue and 24th street.",
@@ -75687,7 +76147,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8074
     },
     {
         "name": "Bushwick ave between Halsey and Weirfield, north side of the street.",
@@ -75858,7 +76319,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2732
     },
     {
         "name": "Dean St. between Underhill Ave x Washington Ave. I'm Brooklyn",
@@ -76022,7 +76484,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.0763
     },
     {
         "name": "23rd Avenue and 24th street.",
@@ -76193,7 +76656,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8074
     },
     {
         "name": "19th St. between 23rd Ave. and 22nd Dr. on the side with houses",
@@ -76347,7 +76811,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "South side of 27th Ave at 12th St, where St. Margaret Mary church used to be.",
@@ -76512,7 +76977,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Between Union and Leornard",
@@ -76683,7 +77149,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.875
     },
     {
         "name": "W 73rd street between Columbus and Central Park. Between NYSC and Columbus",
@@ -76854,7 +77321,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "West 109th Street between Broadway and Amsterdam in Manhattan, specifically the west end of the south side of the street. The address I chose is actually Atlas Kitchen, which does not always do a great job of cleaning up food scraps left out for trash pickup.",
@@ -77025,7 +77493,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.8539
     },
     {
         "name": "It\u2019s the northwest corner of 86th and 1st that was made vacant by a real estate developer and nobody cleans it up. So it\u2019s kind of a mess and I regularly clean up broken glass and other trash around there.",
@@ -77183,7 +77652,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0186
     },
     {
         "name": "Parsons & 20th",
@@ -77354,7 +77824,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "PPW between 7th and 8th streets.",
@@ -77512,7 +77983,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The Arthur Ross Pinetum is generally well-maintained, a pine oasis in the middle of the city. Weekends bring bday celebrations and other activities, which can leave litter. I walk through this area most days of the week for exercise \u2014 it smells amazing \u2014 and would be honored to adopt it as my spot.",
@@ -77676,7 +78148,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8068
     },
     {
         "name": "In front of my building and street",
@@ -77847,7 +78320,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4927
     },
     {
         "name": "89th St btw CPW and Columbus",
@@ -78018,7 +78492,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Greene Ave between Knickerbocker and Irving",
@@ -78179,7 +78654,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6908
     },
     {
         "name": "West 72nd Street from Broadway to Riverside",
@@ -78352,7 +78828,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Corner of Main Street & Blossom Ave, in front of the supermarket",
@@ -78510,7 +78987,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7845
     },
     {
         "name": "I'm selecting the area in front of my apartment - the sidewalk, gutters, and tree bed - on the north side of 11th St, just up from 4th Ave.",
@@ -78681,7 +79159,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9516
     },
     {
         "name": "3rd street (middle of block) up until Hoyt street. On the odd number side of the block.",
@@ -78852,7 +79331,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The island between Broadway and Amsterdam at 70th And Broadway",
@@ -79016,7 +79496,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8316
     },
     {
         "name": "5th street between 5th and 6th Ave.",
@@ -79187,7 +79668,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.5574
     },
     {
         "name": "The east side of 59th/lexington subway station",
@@ -79335,7 +79817,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "9th street by 3rd avenue",
@@ -79506,7 +79989,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Trash is dumped and dog poo is left in tree pit.  Cross streets are e168 street & e169 street.",
@@ -79677,7 +80161,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "The 112th st block between 7th and 8th",
@@ -79842,7 +80327,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Southern side of 5th Street between 6th and 7th avenue",
@@ -80013,7 +80499,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "It is a residential block",
@@ -80162,7 +80649,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Madison st and patchen",
@@ -80333,7 +80821,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5106
     },
     {
         "name": "89th St btw CPW and Columbus",
@@ -80504,7 +80993,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Curb and the two tree beds outside 2111 Beekman",
@@ -80669,7 +81159,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.6007
     },
     {
         "name": "The dead end on 64th Street backing to the bus depot, id like to keep the 3 homes/ front beds clear",
@@ -80840,7 +81331,8 @@
             "rats": false,
             "environment": false,
             "already": true
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Chinatown Park area near the statue where there are benches and tables. And",
@@ -81005,7 +81497,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.2263
     },
     {
         "name": "North side of the street on West 127th closer to 5th Avenue",
@@ -81176,7 +81669,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4404
     },
     {
         "name": "Ocean parkway and Foster Avenue",
@@ -81330,7 +81824,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5827
     },
     {
         "name": "9th street by 3rd avenue",
@@ -81501,7 +81996,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "I plan to keep the west side of 54th street near 9th Avenue clean",
@@ -81672,7 +82168,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6124
     },
     {
         "name": "between forest and onderdonk",
@@ -81837,7 +82334,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Amsterdam and 92nd",
@@ -82008,7 +82506,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Between 166th and McClellan along the Grand Concourse",
@@ -82169,7 +82668,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6697
     },
     {
         "name": "The block on the odd side between Cypress and Seneca",
@@ -82340,7 +82840,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "North side of Sumpter St, from 385 Sumpter St to Mother Gaston Blvd",
@@ -82501,7 +83002,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8979
     },
     {
         "name": "South side of block of 80th St between Amsterdam Ave and Columbus Ave",
@@ -82659,7 +83161,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Both sides of Willoughby Ave between Nostrand and Marcy.",
@@ -82830,7 +83333,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.9118
     },
     {
         "name": "23rd street between 4th and 5th avenues",
@@ -83001,7 +83505,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "31st St Between Astoria Blvd and 28th St.",
@@ -83166,7 +83671,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.507
     },
     {
         "name": "Eldert street from the it\u2019s intersection with Broadway to it\u2019s intersection with Bushwick Ave.",
@@ -83315,7 +83821,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5093
     },
     {
         "name": "The blocks near E 73rd and 2nd Ave",
@@ -83462,7 +83969,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6249
     },
     {
         "name": "The NW corner of 123rd and ACP",
@@ -83633,7 +84141,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7013
     },
     {
         "name": "178th St and Fort Washington Avenue in Manhattan",
@@ -83798,7 +84307,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.2263
     },
     {
         "name": "20th st between 8th and 9th ave",
@@ -83969,7 +84479,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Tree plots outside my building + storm drain across the street.",
@@ -84127,7 +84638,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4215
     },
     {
         "name": "West side of riverside drive between 83 & 84th street",
@@ -84285,7 +84797,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.7964
     },
     {
         "name": "The school garbage area is never cleaned and we never get street sweeping",
@@ -84446,7 +84959,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Lincoln Pl between 7th and 8th",
@@ -84617,7 +85131,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.5423
     },
     {
         "name": "York Avenue between 79th & 80th Streets",
@@ -84788,7 +85303,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4939
     },
     {
         "name": "Linden st between Seneca and onderdonk",
@@ -84959,7 +85475,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The block of Starr St in between Wilson and Knickerbocker Ave",
@@ -85130,7 +85647,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6369
     },
     {
         "name": "Tree bed in front of my building",
@@ -85290,7 +85808,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4767
     },
     {
         "name": "Rain garden on the back of the Ridgewood Bushwick Senior Center. I also organize block cleanups periodically (we have a block group chat which we're very proud of!) and so any extra supplies are very much appreciated. We also collaborate with the Clean Bushwick Initiative.",
@@ -85454,7 +85973,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.25
     },
     {
         "name": "Stockholm between Wycoff and Irving",
@@ -85625,7 +86145,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6808
     },
     {
         "name": "North side of 6th Street between 4th and 5th Avenue on the North Side - around 269-289.",
@@ -85796,7 +86317,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.128
     },
     {
         "name": "Sidewalk & tree pits in front of Park Slope Armory YMCA from entrance of building to end of building (walking towards 7th Ave).",
@@ -85960,7 +86482,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.1511
     },
     {
         "name": "The eastern corner of 16th and 6th Ave the sidewalk and tree pits.",
@@ -86124,7 +86647,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Intersection of verona and fulton",
@@ -86282,7 +86806,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.3802
     },
     {
         "name": "East side of 2nd Avenue, across from Ruppert Park.",
@@ -86453,7 +86978,8 @@
             "rats": true,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.25
     },
     {
         "name": "Prospect Ave and Terrace Place",
@@ -86624,7 +87150,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6696
     },
     {
         "name": "Between Madison & Park",
@@ -86795,7 +87322,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "lincoln place between kingston ave and brooklyn ave",
@@ -86966,7 +87494,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.4927
     },
     {
         "name": "Melrose & Knickerbocker",
@@ -87131,7 +87660,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.8126
     },
     {
         "name": "Cross streets Quincy and Throop",
@@ -87302,7 +87832,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "The public sidewalk and tree beds along the western side of the block of Madison Avenue between 126th & 127th street.",
@@ -87473,7 +88004,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.6808
     },
     {
         "name": "SE corner of Clifton and Grand",
@@ -87631,7 +88163,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.0387
     },
     {
         "name": "So I'm interested in picking up on my block in general, 49th street between 28th and 25th ave. However, there is also a specific spot in the block, closer to 28th, (at the general address given above) where the Amtrak train tracks cross over the street. Garbage piles up over time, but it seems to have recently been professionally cleaned (trash picked up, sidewalks scraped, etc.) I'm wondering if you have any idea/involvement with what is going on there? Does the city come out to clean specific problem spots on a schedule, or is something that a resident can make a request to the city about?",
@@ -87796,7 +88329,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.5859
     },
     {
         "name": "Between 37ave and 35 ave",
@@ -87967,7 +88501,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Sidewalk in front of the house and house on either side",
@@ -88138,7 +88673,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "150 Marine Ave",
@@ -88295,7 +88831,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Park Ave between E 121st and E 122nd St",
@@ -88453,7 +88990,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     },
     {
         "name": "Around Washington Park on 3rd St / 4th ave",
@@ -88617,7 +89155,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.802
     },
     {
         "name": "South side of Pacific Street between 4th and 5th Ave",
@@ -88788,7 +89327,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.4019
     },
     {
         "name": "Throop Ave bn DeKalb and Kosciuszko on the east side",
@@ -88959,7 +89499,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.3182
     },
     {
         "name": "Corner of Bushwick Avenue and Grove Street in front of 1002 Bushwick Avenue",
@@ -89124,7 +89665,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.34
     },
     {
         "name": "Lewis Ave, down the streets Willoughby Ave, Hart, Vernon, Myrtle.",
@@ -89289,7 +89831,8 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": -0.296
     },
     {
         "name": "between 2nd & 3rd Place",
@@ -89460,6 +90003,7 @@
             "rats": false,
             "environment": false,
             "already": false
-        }
+        },
+        "sentiment": 0.0
     }
 ]
