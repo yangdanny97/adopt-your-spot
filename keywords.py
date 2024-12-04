@@ -71,23 +71,23 @@ for entry in data:
     add_key(
         "live", entry["Can you tell us why you have selected this spot?"], ["live"])
     add_key("walk", entry["Can you tell us why you have selected this spot?"], [
-            "walk", "stroll"])
+            "walk", "stroll", "walking", "walked", "strolling", "strolled"])
     add_key("run", entry["Can you tell us why you have selected this spot?"], [
-            "run", "jog"])
+            "run", "jog", "jogging", "running", "jogger", "runner", "jogged", "ran"])
     add_key(
-        "dog", entry["Can you tell us why you have selected this spot?"], ["dog"])
+        "dog", entry["Can you tell us why you have selected this spot?"], ["dog", "pet"])
     add_key(
         "sunset", entry["Can you tell us why you have selected this spot?"], ["sunset"])
     add_key("child", entry["Can you tell us why you have selected this spot?"], [
             "child", "children", "kid"])
     add_key(
-        "play", entry["Can you tell us why you have selected this spot?"], ["play"])
+        "play", entry["Can you tell us why you have selected this spot?"], ["play", "playing"])
     add_key("tired", entry["Can you tell us why you have selected this spot?"], [
             "tired", "sick", "frustrated", "frustrating"])
     add_key("hope", entry["Can you tell us why you have selected this spot?"], [
             "hope", "wish"])
     add_key("everyday", entry["Can you tell us why you have selected this spot?"], [
-            "every day", "everyday"])
+            "every day", "everyday", "daily"])
     add_key("near", entry["Can you tell us why you have selected this spot?"], [
             "near", "nearby"])
     add_key("beautiful", entry["Can you tell us why you have selected this spot?"], [
@@ -95,25 +95,27 @@ for entry in data:
     add_key("pride", entry["Can you tell us why you have selected this spot?"], [
             "pride", "proud"])
     add_key("help", entry["Can you tell us why you have selected this spot?"], [
-            "help", "contribute", "contributing"])
+            "help", "contribute", "contributing", "give back"])
     add_key("community", entry["Can you tell us why you have selected this spot?"], [
-            "community"])
+            "community", "shared", "share"])
     add_key("neighborhood", entry["Can you tell us why you have selected this spot?"], [
             "neighborhood"])
     add_key("neglect", entry["Can you tell us why you have selected this spot?"], [
             "abandoned", "abandon", "vacant", "unoccupied", "neglect", "neglected"])
     add_key("busy", entry["Can you tell us why you have selected this spot?"], [
-            "busy", "traffic"])
+            "busy", "traffic", "pedestrian"])
     add_key("flood", entry["Can you tell us why you have selected this spot?"], [
             "flood", "flooded", "flooding"])
     add_key("family", entry["Can you tell us why you have selected this spot?"], [
-            "family", "parent", "relative"])
+            "family", "parent", "relative", "relatives"])
     add_key(
         "care", entry["Can you tell us why you have selected this spot?"], ["care"])
     add_key(
         "rats", entry["Can you tell us why you have selected this spot?"], ["rat"])
     add_key("environment", entry["Can you tell us why you have selected this spot?"], [
             "environment", "nature", "animal", "wild", "wildlife"])
+    add_key("already", entry["Can you tell us why you have selected this spot?"], [
+        "already"])
 
 with open("data/adopt_your_spot_geocoded.json", "w") as f:
     json.dump(data, f, indent=4)

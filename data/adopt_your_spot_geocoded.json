@@ -166,7 +166,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -323,7 +324,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -493,7 +495,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -657,7 +660,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -801,7 +805,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -814,7 +818,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -965,7 +970,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -978,7 +983,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1131,7 +1137,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1301,7 +1308,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1465,7 +1473,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1628,7 +1637,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1785,7 +1795,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -1955,7 +1966,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -2125,7 +2137,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -2257,7 +2270,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -2278,7 +2291,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -2427,7 +2441,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -2440,7 +2454,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -2594,7 +2609,7 @@
             "dog": false,
             "sunset": false,
             "child": true,
-            "play": false,
+            "play": true,
             "tired": false,
             "hope": false,
             "everyday": false,
@@ -2610,7 +2625,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -2774,7 +2790,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -2944,7 +2961,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -3108,7 +3126,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -3265,7 +3284,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -3435,7 +3455,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -3595,7 +3616,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -3765,7 +3787,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -3908,8 +3931,8 @@
         },
         "reason_keywords": {
             "live": true,
-            "walk": false,
-            "run": false,
+            "walk": true,
+            "run": true,
             "dog": false,
             "sunset": false,
             "child": false,
@@ -3929,7 +3952,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4093,7 +4117,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4263,7 +4288,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4433,7 +4459,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4611,7 +4638,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4781,7 +4809,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -4930,7 +4959,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5073,7 +5103,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": true,
             "sunset": false,
@@ -5094,7 +5124,8 @@
             "family": true,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5228,7 +5259,7 @@
             "live": false,
             "walk": true,
             "run": false,
-            "dog": false,
+            "dog": true,
             "sunset": false,
             "child": false,
             "play": false,
@@ -5247,7 +5278,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5417,7 +5449,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5587,7 +5620,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5751,7 +5785,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -5922,7 +5957,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6079,7 +6115,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6249,7 +6286,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6419,7 +6457,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6589,7 +6628,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6745,7 +6785,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -6915,7 +6956,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7085,7 +7127,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7255,7 +7298,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7425,7 +7469,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7595,7 +7640,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7765,7 +7811,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -7925,7 +7972,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8081,7 +8129,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8251,7 +8300,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8405,7 +8455,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -8418,7 +8468,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8588,7 +8639,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8745,7 +8797,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -8916,7 +8969,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9077,7 +9131,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9241,7 +9296,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9398,7 +9454,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -9411,7 +9467,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9567,7 +9624,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9737,7 +9795,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -9907,7 +9966,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -10064,7 +10124,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -10077,7 +10137,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -10247,7 +10308,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -10404,7 +10466,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -10417,7 +10479,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -10568,7 +10631,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": true,
             "beautiful": false,
             "pride": false,
@@ -10581,7 +10644,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -10751,7 +10815,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -10921,7 +10986,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11091,7 +11157,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11254,7 +11321,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11403,12 +11471,12 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
             "child": true,
-            "play": false,
+            "play": true,
             "tired": false,
             "hope": false,
             "everyday": false,
@@ -11424,7 +11492,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11594,7 +11663,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11758,7 +11828,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -11928,7 +11999,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12098,7 +12170,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12246,7 +12319,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12416,7 +12490,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12586,7 +12661,8 @@
             "family": true,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12750,7 +12826,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -12890,7 +12967,7 @@
             "dog": false,
             "sunset": false,
             "child": false,
-            "play": false,
+            "play": true,
             "tired": false,
             "hope": false,
             "everyday": false,
@@ -12906,7 +12983,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13069,7 +13147,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13216,7 +13295,8 @@
             "family": true,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13373,7 +13453,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": true,
             "beautiful": true,
             "pride": false,
@@ -13386,7 +13466,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13556,7 +13637,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13720,7 +13802,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -13873,7 +13956,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14033,7 +14117,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14203,7 +14288,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14359,7 +14445,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14523,7 +14610,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14693,7 +14781,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -14863,7 +14952,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15023,7 +15113,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15187,7 +15278,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15329,7 +15421,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15499,7 +15592,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -15659,7 +15753,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15829,7 +15924,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -15964,7 +16060,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -15985,7 +16081,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -16155,7 +16252,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -16319,7 +16417,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -16489,7 +16588,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -16653,7 +16753,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -16823,7 +16924,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -16993,7 +17095,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17153,7 +17256,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17302,7 +17406,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -17323,7 +17427,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17486,7 +17591,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17639,7 +17745,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17792,7 +17899,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -17942,7 +18050,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -17955,7 +18063,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18112,7 +18221,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18269,7 +18379,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18439,7 +18550,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18609,7 +18721,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18766,7 +18879,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -18916,7 +19030,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -18929,7 +19043,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19099,7 +19214,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19269,7 +19385,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19432,7 +19549,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19602,7 +19720,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19772,7 +19891,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -19942,7 +20062,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20112,7 +20233,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20258,7 +20380,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20415,7 +20538,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20585,7 +20709,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20726,7 +20851,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -20889,7 +21015,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -21035,7 +21162,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -21192,7 +21320,7 @@
             "play": false,
             "tired": false,
             "hope": true,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -21205,7 +21333,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -21362,7 +21491,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -21519,7 +21649,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -21689,7 +21820,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -21859,7 +21991,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22015,7 +22148,8 @@
             "family": true,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22185,7 +22319,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22355,7 +22490,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -22498,7 +22634,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": true,
             "dog": false,
             "sunset": false,
@@ -22519,7 +22655,8 @@
             "family": false,
             "care": true,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22676,7 +22813,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22822,7 +22960,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -22992,7 +23131,8 @@
             "family": true,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -23145,7 +23285,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -23291,7 +23432,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -23448,7 +23590,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -23611,7 +23754,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -23768,7 +23912,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -23938,7 +24083,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -24086,7 +24232,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -24243,7 +24390,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -24406,7 +24554,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -24569,7 +24718,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -24739,7 +24889,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -24909,7 +25060,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25066,7 +25218,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25229,7 +25382,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25399,7 +25553,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25569,7 +25724,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25739,7 +25895,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -25909,7 +26066,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26072,7 +26230,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26236,7 +26395,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26406,7 +26566,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26573,7 +26734,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26743,7 +26905,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -26913,7 +27076,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27054,7 +27218,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27202,7 +27367,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27359,7 +27525,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27505,7 +27672,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27669,7 +27837,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27795,7 +27964,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -27816,7 +27985,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -27980,7 +28150,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28129,7 +28300,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -28150,7 +28321,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28314,7 +28486,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28484,7 +28657,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28654,7 +28828,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28801,7 +28976,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -28954,7 +29130,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29114,7 +29291,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29277,7 +29455,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29437,7 +29616,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29597,7 +29777,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29767,7 +29948,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -29913,7 +30095,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -30077,7 +30260,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -30234,7 +30418,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -30392,7 +30577,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -30545,7 +30731,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -30693,7 +30880,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -30863,7 +31051,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31033,7 +31222,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31203,7 +31393,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31380,7 +31571,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31521,7 +31713,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31684,7 +31877,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31830,7 +32024,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -31994,7 +32189,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32164,7 +32360,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32317,7 +32514,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32487,7 +32685,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32657,7 +32856,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32798,7 +32998,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -32968,7 +33169,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33138,7 +33340,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33303,12 +33506,13 @@
             "community": true,
             "neighborhood": false,
             "neglect": false,
-            "busy": false,
+            "busy": true,
             "flood": false,
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33468,7 +33672,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33636,7 +33841,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33782,7 +33988,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -33920,7 +34127,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34084,7 +34292,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34230,7 +34439,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34387,7 +34597,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34543,7 +34754,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34707,7 +34919,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -34841,7 +35054,7 @@
             "live": false,
             "walk": false,
             "run": false,
-            "dog": false,
+            "dog": true,
             "sunset": false,
             "child": true,
             "play": false,
@@ -34860,7 +35073,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35023,7 +35237,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35193,7 +35408,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35350,7 +35566,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35514,7 +35731,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35667,7 +35885,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35831,7 +36050,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -35984,7 +36204,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36141,7 +36362,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36287,7 +36509,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36433,7 +36656,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36579,7 +36803,8 @@
             "family": true,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36743,7 +36968,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -36907,7 +37133,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37064,7 +37291,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37227,7 +37455,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37390,7 +37619,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37550,7 +37780,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37699,7 +37930,7 @@
             "beautiful": false,
             "pride": false,
             "help": false,
-            "community": false,
+            "community": true,
             "neighborhood": false,
             "neglect": false,
             "busy": false,
@@ -37707,7 +37938,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -37863,7 +38095,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38033,7 +38266,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38190,7 +38424,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38360,7 +38595,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38530,7 +38766,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38700,7 +38937,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -38859,12 +39097,13 @@
             "community": false,
             "neighborhood": false,
             "neglect": true,
-            "busy": false,
+            "busy": true,
             "flood": false,
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -39034,7 +39273,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -39204,7 +39444,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -39374,7 +39615,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -39521,7 +39763,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": false,
             "neighborhood": false,
             "neglect": false,
@@ -39530,7 +39772,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -39700,7 +39943,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -39863,7 +40107,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40033,7 +40278,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40203,7 +40449,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40373,7 +40620,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40543,7 +40791,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40700,7 +40949,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -40864,7 +41114,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41034,7 +41285,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41198,7 +41450,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41361,7 +41614,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41531,7 +41785,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41684,7 +41939,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -41854,7 +42110,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42024,7 +42281,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42173,7 +42431,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42326,7 +42585,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42496,7 +42756,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42653,7 +42914,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42823,7 +43085,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -42976,7 +43239,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -43133,7 +43397,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -43303,7 +43568,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -43447,7 +43713,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": false,
             "neighborhood": true,
             "neglect": false,
@@ -43456,7 +43722,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -43602,7 +43869,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -43772,7 +44040,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -43935,7 +44204,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44105,7 +44375,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44261,7 +44532,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44424,7 +44696,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44587,7 +44860,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44733,7 +45007,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -44890,7 +45165,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45060,7 +45336,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45223,7 +45500,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45387,7 +45665,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45557,7 +45836,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45692,7 +45972,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -45713,7 +45993,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -45883,7 +46164,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46033,7 +46315,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -46046,7 +46328,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46208,7 +46491,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46358,7 +46642,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -46371,7 +46655,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46541,7 +46826,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46697,7 +46983,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -46859,7 +47146,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47022,7 +47310,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47192,7 +47481,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47355,7 +47645,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47506,7 +47797,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47663,7 +47955,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47825,7 +48118,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -47988,7 +48282,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48145,7 +48440,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48315,7 +48611,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48464,7 +48761,7 @@
             "beautiful": false,
             "pride": false,
             "help": false,
-            "community": false,
+            "community": true,
             "neighborhood": false,
             "neglect": false,
             "busy": false,
@@ -48472,7 +48769,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48622,7 +48920,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -48635,7 +48933,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48798,7 +49097,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -48950,7 +49250,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49113,7 +49414,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49246,7 +49548,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -49259,7 +49561,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49429,7 +49732,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49599,7 +49903,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49763,7 +50068,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -49933,7 +50239,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50103,7 +50410,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50273,7 +50581,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50443,7 +50752,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50613,7 +50923,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50776,7 +51087,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -50940,7 +51252,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51097,7 +51410,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -51110,7 +51423,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51270,7 +51584,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51440,7 +51755,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51601,7 +51917,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": false,
             "neighborhood": true,
             "neglect": false,
@@ -51610,7 +51926,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51780,7 +52097,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -51908,7 +52226,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -51916,7 +52234,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -51929,7 +52247,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52099,7 +52418,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52269,7 +52589,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52439,7 +52760,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52609,7 +52931,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52779,7 +53102,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -52949,7 +53273,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53113,7 +53438,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53283,7 +53609,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53447,7 +53774,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53611,7 +53939,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53757,7 +54086,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -53910,7 +54240,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54073,7 +54404,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54243,7 +54575,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54413,7 +54746,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54583,7 +54917,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54729,7 +55064,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -54899,7 +55235,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55045,7 +55382,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55215,7 +55553,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55372,7 +55711,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55518,7 +55858,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55688,7 +56029,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -55858,7 +56200,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56022,7 +56365,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56179,7 +56523,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56349,7 +56694,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56513,7 +56859,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56683,7 +57030,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -56847,7 +57195,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57017,7 +57366,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57187,7 +57537,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57357,7 +57708,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57505,7 +57857,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57662,7 +58015,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57825,7 +58179,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -57989,7 +58344,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58153,7 +58509,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58317,7 +58674,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58487,7 +58845,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58651,7 +59010,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58821,7 +59181,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -58967,7 +59328,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": true,
             "sunset": false,
@@ -58988,7 +59349,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59141,7 +59503,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59298,7 +59661,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59462,7 +59826,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59618,7 +59983,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59788,7 +60154,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -59958,7 +60325,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60128,7 +60496,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60291,7 +60660,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60448,7 +60818,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60599,7 +60970,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": true,
             "neighborhood": true,
             "neglect": false,
@@ -60608,7 +60979,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60778,7 +61150,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -60948,7 +61321,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -61112,7 +61486,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -61282,7 +61657,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -61442,7 +61818,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -61595,7 +61972,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -61759,7 +62137,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -61926,7 +62305,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62096,7 +62476,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62266,7 +62647,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62436,7 +62818,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62593,7 +62976,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62763,7 +63147,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -62905,7 +63290,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63062,7 +63448,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63225,7 +63612,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63395,7 +63783,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63550,7 +63939,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": true,
             "neighborhood": false,
             "neglect": false,
@@ -63559,7 +63948,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63729,7 +64119,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -63882,7 +64273,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64046,7 +64438,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64206,7 +64599,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64376,7 +64770,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64521,7 +64916,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64685,7 +65081,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -64855,7 +65252,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65018,7 +65416,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65188,7 +65587,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65358,7 +65758,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65522,7 +65923,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65679,7 +66081,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65836,7 +66239,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -65993,7 +66397,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -66163,7 +66568,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -66309,7 +66715,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -66473,7 +66880,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -66616,7 +67024,7 @@
         "reason_keywords": {
             "live": false,
             "walk": false,
-            "run": false,
+            "run": true,
             "dog": false,
             "sunset": false,
             "child": false,
@@ -66636,7 +67044,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": true
+            "environment": true,
+            "already": false
         }
     },
     {
@@ -66806,7 +67215,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -66976,7 +67386,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67136,7 +67547,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67306,7 +67718,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67476,7 +67889,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67640,7 +68054,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67810,7 +68225,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -67980,7 +68396,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68133,7 +68550,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68303,7 +68721,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68473,7 +68892,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68643,7 +69063,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68804,7 +69225,7 @@
             "near": false,
             "beautiful": false,
             "pride": false,
-            "help": false,
+            "help": true,
             "community": false,
             "neighborhood": true,
             "neglect": false,
@@ -68813,7 +69234,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -68983,7 +69405,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69153,7 +69576,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69313,7 +69737,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69463,7 +69888,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69633,7 +70059,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69796,7 +70223,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -69959,7 +70387,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70092,7 +70521,7 @@
             "play": false,
             "tired": false,
             "hope": true,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -70105,7 +70534,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70275,7 +70705,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70445,7 +70876,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70612,7 +71044,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70779,7 +71212,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -70946,7 +71380,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71113,7 +71548,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71283,7 +71719,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71440,7 +71877,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71597,7 +72035,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71767,7 +72206,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -71937,7 +72377,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72107,7 +72548,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72256,7 +72698,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72426,7 +72869,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72596,7 +73040,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72759,7 +73204,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -72922,7 +73368,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73090,7 +73537,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73260,7 +73708,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73416,7 +73865,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73586,7 +74036,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73756,7 +74207,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -73913,7 +74365,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74077,7 +74530,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74230,7 +74684,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74387,7 +74842,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74551,7 +75007,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74721,7 +75178,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -74885,7 +75343,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75055,7 +75514,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75225,7 +75685,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75395,7 +75856,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75558,7 +76020,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75728,7 +76191,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -75881,7 +76345,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -76045,7 +76510,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -76207,7 +76673,7 @@
             "beautiful": false,
             "pride": false,
             "help": false,
-            "community": false,
+            "community": true,
             "neighborhood": true,
             "neglect": false,
             "busy": false,
@@ -76215,7 +76681,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -76385,7 +76852,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -76555,7 +77023,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -76712,7 +77181,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -76869,7 +77339,7 @@
             "play": false,
             "tired": false,
             "hope": false,
-            "everyday": false,
+            "everyday": true,
             "near": false,
             "beautiful": false,
             "pride": false,
@@ -76882,7 +77352,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77039,7 +77510,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77202,7 +77674,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77372,7 +77845,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77542,7 +78016,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77702,7 +78177,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -77874,7 +78350,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -78031,7 +78508,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -78201,7 +78679,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -78371,7 +78850,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -78534,7 +79014,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -78704,7 +79185,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -78851,7 +79333,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79021,7 +79504,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79191,7 +79675,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79355,7 +79840,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79525,7 +80011,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79673,7 +80160,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -79843,7 +80331,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -80013,7 +80502,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -80177,7 +80667,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -80347,7 +80838,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": true
         }
     },
     {
@@ -80511,7 +81003,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -80681,7 +81174,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -80834,7 +81328,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81004,7 +81499,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81174,7 +81670,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81338,7 +81835,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81508,7 +82006,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81668,7 +82167,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81838,7 +82338,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -81998,7 +82499,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82155,7 +82657,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82325,7 +82828,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82495,7 +82999,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82659,7 +83164,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82807,7 +83313,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -82953,7 +83460,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83123,7 +83631,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83287,7 +83796,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83457,7 +83967,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83614,7 +84125,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83771,7 +84283,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -83931,7 +84444,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84101,7 +84615,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84271,7 +84786,8 @@
             "family": false,
             "care": true,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84441,7 +84957,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84611,7 +85128,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84770,7 +85288,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -84933,7 +85452,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85082,7 +85602,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -85103,7 +85623,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85273,7 +85794,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85436,7 +85958,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85599,7 +86122,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85756,7 +86280,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -85926,7 +86451,8 @@
             "family": false,
             "care": false,
             "rats": true,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86096,7 +86622,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86266,7 +86793,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86436,7 +86964,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86600,7 +87129,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86770,7 +87300,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -86940,7 +87471,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87097,7 +87629,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87261,7 +87794,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87431,7 +87965,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87601,7 +88136,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87757,7 +88293,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -87914,7 +88451,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88077,7 +88615,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88247,7 +88786,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88417,7 +88957,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88581,7 +89122,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88724,7 +89266,7 @@
         },
         "reason_keywords": {
             "live": false,
-            "walk": false,
+            "walk": true,
             "run": false,
             "dog": false,
             "sunset": false,
@@ -88745,7 +89287,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     },
     {
@@ -88915,7 +89458,8 @@
             "family": false,
             "care": false,
             "rats": false,
-            "environment": false
+            "environment": false,
+            "already": false
         }
     }
 ]
