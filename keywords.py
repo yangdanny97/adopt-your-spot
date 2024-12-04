@@ -30,13 +30,20 @@ def search_text(text, search):
             return True
     return False
 
+name_counts = {}
+reason_counts = {}
 
 for entry in data:
     if "name_keywords" not in entry:
         entry["name_keywords"] = {}
 
     def add_key(key, text, search):
-        entry["name_keywords"][key] = search_text(text, search)
+        found = search_text(text, search)
+        entry["name_keywords"][key] = found
+        if found:
+            if key not in name_counts:
+                name_counts[key] = 0
+            name_counts[key] += 1
     add_key("tree", entry["name"], ["tree", "trees"])
     add_key("station", entry["name"], [
             "station", "subway", "train", "bus", "buses", "track", "rail"])
@@ -67,9 +74,14 @@ for entry in data:
         entry["reason_keywords"] = {}
 
     def add_key(key, text, search):
-        entry["reason_keywords"][key] = search_text(text, search)
+        found = search_text(text, search)
+        entry["reason_keywords"][key] = found
+        if found:
+            if key not in reason_counts:
+                reason_counts[key] = 0
+            reason_counts[key] += 1
     add_key(
-        "live", entry["Can you tell us why you have selected this spot?"], ["live"])
+        "live", entry["Can you tell us why you have selected this spot?"], ["live", "living", "lived", "lives"])
     add_key("walk", entry["Can you tell us why you have selected this spot?"], [
             "walk", "stroll", "walking", "walked", "strolling", "strolled"])
     add_key("run", entry["Can you tell us why you have selected this spot?"], [
@@ -119,3 +131,10 @@ for entry in data:
 
 with open("data/adopt_your_spot_geocoded.json", "w") as f:
     json.dump(data, f, indent=4)
+
+print("names:")
+for k, n in sorted(name_counts.items(), key=lambda x: x[1], reverse=True):
+    print(k, n)
+print("reasons:")
+for k, n in sorted(reason_counts.items(), key=lambda x: x[1], reverse=True):
+    print(k, n)
